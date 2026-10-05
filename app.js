@@ -61,29 +61,48 @@ function renderList() {
   }
 }
 
+const HOLIDAYS = {
+  "2026-01-01":"元日","2026-01-12":"成人の日","2026-02-11":"建国記念の日","2026-02-23":"天皇誕生日","2026-03-20":"春分の日",
+  "2026-04-29":"昭和の日","2026-05-03":"憲法記念日","2026-05-04":"みどりの日","2026-05-05":"こどもの日","2026-05-06":"振替休日",
+  "2026-07-20":"海の日","2026-08-11":"山の日","2026-09-21":"敬老の日","2026-09-22":"国民の休日","2026-09-23":"秋分の日",
+  "2026-10-12":"スポーツの日","2026-11-03":"文化の日","2026-11-23":"勤労感謝の日",
+  "2027-01-01":"元日","2027-01-11":"成人の日","2027-02-11":"建国記念の日","2027-02-23":"天皇誕生日","2027-03-21":"春分の日",
+  "2027-03-22":"振替休日","2027-04-29":"昭和の日","2027-05-03":"憲法記念日","2027-05-04":"みどりの日","2027-05-05":"こどもの日",
+  "2027-07-19":"海の日","2027-08-11":"山の日","2027-09-20":"敬老の日","2027-09-23":"秋分の日","2027-10-11":"スポーツの日",
+  "2027-11-03":"文化の日","2027-11-23":"勤労感謝の日"
+};
+
 function renderCalendar() {
   const el = $("#cal"), today = ymd(new Date());
   const by = {};
   for (const s of filtered(false)) (by[s.date] ||= []).push(s);
-  const { y, m } = state.month, first = new Date(y, m, 1), days = new Date(y, m + 1, 0).getDate();
+  const { y, m } = state.month, first = new Date(y, m, 1), last = new Date(y, m + 1, 0);
   const dates = data.sessions.map(s => s.date), minD = dates[0] || today, maxD = dates[dates.length - 1] || today;
   const prevOk = ymd(new Date(y, m, 0)) >= minD, nextOk = ymd(new Date(y, m + 1, 1)) <= maxD;
-  let h = `<div class="calhead"><button id="prev" ${prevOk ? "" : "disabled"} aria-label="前の月">‹</button><b>${y}年${m + 1}月</b><button id="next" ${nextOk ? "" : "disabled"} aria-label="次の月">›</button></div><div class="grid">`;
+  const mname = first.toLocaleString("en", { month: "long" });
+  let h = `<div class="mhead"><button id="prev" ${prevOk ? "" : "disabled"} aria-label="前の月">‹</button>
+    <div class="mtitle"><span class="mbig">${m + 1}</span><span class="msub"><b>${mname}</b> ${y}<br>${y}年${m + 1}月</span></div>
+    <button id="next" ${nextOk ? "" : "disabled"} aria-label="次の月">›</button></div><div class="grid">`;
   h += [...WD].map((w, i) => `<div class="dow${i === 0 ? " sun" : i === 6 ? " sat" : ""}">${w}</div>`).join("");
-  for (let i = 0; i < first.getDay(); i++) h += '<div class="cell blank"></div>';
-  for (let d = 1; d <= days; d++) {
-    const iso = ymd(new Date(y, m, d)), list = by[iso] || [], wd = new Date(y, m, d).getDay();
-    const cls = ["cell", iso === today && "today", iso === state.sel && "sel", iso < today && "past", !list.length && "none", wd === 0 && "sun", wd === 6 && "sat"].filter(Boolean).join(" ");
+  const start = new Date(y, m, 1 - first.getDay()), end = new Date(y, m, last.getDate() + (6 - last.getDay()));
+  for (let dt = new Date(start); dt <= end; dt.setDate(dt.getDate() + 1)) {
+    const iso = ymd(dt), list = by[iso] || [], wd = dt.getDay(), hol = HOLIDAYS[iso];
+    const cls = ["cell", dt.getMonth() !== m && "adj", iso === today && "today", iso === state.sel && "sel", iso < today && "past", !list.length && "none",
+      (wd === 0 || hol) ? "sun" : wd === 6 && "sat"].filter(Boolean).join(" ");
     const dots = list.slice(0, 6).map(s => `<i class="dot ${s.genre.length > 1 ? "both" : s.genre[0]}"></i>`).join("");
     const pills = list.slice(0, 3).map(s => `<span class="pill ${s.genre.length > 1 ? "both" : s.genre[0]}">${esc(s.start)} ${esc(s.venue)}</span>`).join("") + (list.length > 3 ? `<span class="more">+${list.length - 3}</span>` : "");
-    h += `<button class="${cls}" data-d="${iso}"><span class="n">${d}</span><span class="dots">${dots}</span><span class="pills">${pills}</span>${list.length ? `<span class="cnt">${list.length}</span>` : ""}</button>`;
+    h += `<button class="${cls}" data-d="${iso}"><span class="n">${dt.getDate()}</span>${hol ? `<span class="hol">${hol}</span>` : ""}<span class="dots">${dots}</span><span class="pills">${pills}</span>${list.length ? `<span class="cnt">${list.length}件</span>` : ""}</button>`;
   }
   el.innerHTML = h + '</div><div class="legend"><i class="dot jazz"></i>Jazz <i class="dot blues"></i>Blues <i class="dot both"></i>両方</div>';
   $("#prev").onclick = () => { state.month = { y: m ? y : y - 1, m: m ? m - 1 : 11 }; state.sel = ""; render(); };
   $("#next").onclick = () => { state.month = { y: m < 11 ? y : y + 1, m: (m + 1) % 12 }; state.sel = ""; render(); };
-  el.querySelectorAll(".cell[data-d]").forEach(b => b.onclick = () => { state.sel = b.dataset.d; render(); $("#day").scrollIntoView({ behavior: "smooth", block: "nearest" }); });
+  el.querySelectorAll(".cell[data-d]").forEach(b => b.onclick = () => {
+    const [yy, mm] = b.dataset.d.split("-").map(Number);
+    state.sel = b.dataset.d; state.month = { y: yy, m: mm - 1 }; render();
+    $("#day").scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
   const day = $("#day"); day.textContent = "";
-  if (state.sel && state.sel.startsWith(`${y}-${String(m + 1).padStart(2, "0")}`)) {
+  if (state.sel) {
     const h2 = document.createElement("h2"); h2.textContent = dayLabel(state.sel, today); if (state.sel === today) h2.className = "today"; day.append(h2);
     const list = by[state.sel] || [];
     if (list.length) list.forEach(s => day.append(card(s))); else day.insertAdjacentHTML("beforeend", emptyMsg());
