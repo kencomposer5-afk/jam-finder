@@ -17,6 +17,9 @@
   <div class="chips" id="genre">
     <button data-v="" class="on">すべて</button><button data-v="jazz">Jazz</button><button data-v="blues">Blues</button>
   </div>
+  <div class="chips" id="view">
+    <button data-v="cal" class="on">📅 カレンダー</button><button data-v="list">☰ リスト</button>
+  </div>
   <div class="chips" id="pref">
     <button data-v="" class="on">全域</button><button data-v="東京">東京</button><button data-v="埼玉">埼玉</button><button data-v="神奈川">神奈川</button><button data-v="千葉">千葉</button>
   </div>
@@ -27,7 +30,7 @@
   <select id="area"><option value="">全エリア</option></select>
   <input id="q" type="search" placeholder="店名・楽器で検索">
 </section>
-<main id="list"></main>
+<main><div id="cal"></div><div id="day"></div><div id="list" hidden></div></main>
 <footer>
   <p>掲載は一部の会場のみです。情報は変わることがあるので、行く前に公式で確認を。</p>
   <p><a href="https://github.com/kencomposer5-afk/jam-finder/issues/new?template=venue-report.yml" target="_blank" rel="noopener">＋ 会場・日程の追加/訂正を報告</a></p>
