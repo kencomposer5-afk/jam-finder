@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T15:31+09:00",
+ "updated": "2026-10-05T15:34+09:00",
  "sessions": [
   {
    "id": "j-flow-2026-10-05-18:00",
@@ -154,6 +154,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-10-05-19:30",
+   "date": "2026-10-05",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-10-05-19:30",
+   "date": "2026-10-05",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "start": "19:30",
@@ -830,6 +874,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-10-10-x",
+   "date": "2026-10-10",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "start": "13:00",
    "end": "16:30",
    "genre": [
@@ -1440,6 +1506,28 @@
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
   },
   {
+   "id": "artjazz-ms-2026-10-12-19:30",
+   "date": "2026-10-12",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "acoustic-house-jam-2026-10-12-19:50",
    "date": "2026-10-12",
    "start": "19:50",
@@ -2030,6 +2118,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-10-17-x",
+   "date": "2026-10-17",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "j-flow-2026-10-17-18:00",
    "date": "2026-10-17",
    "start": "18:00",
@@ -2574,6 +2684,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-10-19-19:30",
+   "date": "2026-10-19",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-10-19-19:30",
+   "date": "2026-10-19",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-10-19-19:50",
@@ -3228,6 +3382,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-10-24-x",
+   "date": "2026-10-24",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "start": "13:00",
    "end": "15:30",
    "genre": [
@@ -3796,6 +3972,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-10-26-19:30",
+   "date": "2026-10-26",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-10-26-19:30",
+   "date": "2026-10-26",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-10-26-19:50",
@@ -4386,6 +4606,28 @@
    "src": "アットジャズ(10月の表と店舗情報が一致・公式未確認)"
   },
   {
+   "id": "artjazz-ms-2026-10-31-x",
+   "date": "2026-10-31",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "j-flow-2026-10-31-18:00",
    "date": "2026-10-31",
    "start": "18:00",
@@ -4824,6 +5066,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-11-02-19:30",
+   "date": "2026-11-02",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-11-02-19:30",
+   "date": "2026-11-02",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-11-02-19:50",
@@ -5310,6 +5596,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-11-07-x",
+   "date": "2026-11-07",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "j-flow-2026-11-07-18:00",
    "date": "2026-11-07",
    "start": "18:00",
@@ -5792,6 +6100,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-11-09-19:30",
+   "date": "2026-11-09",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-11-09-19:30",
+   "date": "2026-11-09",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-11-09-19:50",
@@ -6300,6 +6652,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-11-14-x",
+   "date": "2026-11-14",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "j-flow-2026-11-14-18:00",
    "date": "2026-11-14",
    "start": "18:00",
@@ -6760,6 +7134,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-11-16-19:30",
+   "date": "2026-11-16",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-11-16-19:30",
+   "date": "2026-11-16",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-11-16-19:50",
@@ -7266,6 +7684,28 @@
    "warn": false,
    "sample": false,
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+  },
+  {
+   "id": "artjazz-ms-2026-11-21-x",
+   "date": "2026-11-21",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "j-flow-2026-11-21-18:00",
@@ -7795,6 +8235,28 @@
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
   },
   {
+   "id": "artjazz-ms-2026-11-23-19:30",
+   "date": "2026-11-23",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "acoustic-house-jam-2026-11-23-19:50",
    "date": "2026-11-23",
    "start": "19:50",
@@ -8279,6 +8741,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-11-28-x",
+   "date": "2026-11-28",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "catfish-2026-11-28-13:30",
    "date": "2026-11-28",
    "start": "13:30",
@@ -8717,6 +9201,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-11-30-19:30",
+   "date": "2026-11-30",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-11-30-19:30",
+   "date": "2026-11-30",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-11-30-19:50",
@@ -9203,6 +9731,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-12-05-x",
+   "date": "2026-12-05",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "j-flow-2026-12-05-18:00",
    "date": "2026-12-05",
    "start": "18:00",
@@ -9663,6 +10213,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-12-07-19:30",
+   "date": "2026-12-07",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-12-07-19:30",
+   "date": "2026-12-07",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-12-07-19:50",
@@ -10171,6 +10765,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-12-12-x",
+   "date": "2026-12-12",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "j-flow-2026-12-12-18:00",
    "date": "2026-12-12",
    "start": "18:00",
@@ -10653,6 +11269,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-12-14-19:30",
+   "date": "2026-12-14",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-12-14-19:30",
+   "date": "2026-12-14",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-12-14-19:50",
@@ -11161,6 +11821,28 @@
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
+   "id": "artjazz-ms-2026-12-19-x",
+   "date": "2026-12-19",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "j-flow-2026-12-19-18:00",
    "date": "2026-12-19",
    "start": "18:00",
@@ -11621,6 +12303,50 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
+  },
+  {
+   "id": "akasaka-kei-2026-12-21-19:30",
+   "date": "2026-12-21",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-12-21-19:30",
+   "date": "2026-12-21",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "acoustic-house-jam-2026-12-21-19:50",
@@ -12105,6 +12831,28 @@
    "warn": false,
    "sample": false,
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+  },
+  {
+   "id": "artjazz-ms-2026-12-26-x",
+   "date": "2026-12-26",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "catfish-2026-12-26-13:30",
@@ -12635,6 +13383,50 @@
    "src": "今日ジャズ(10/5掲載分・公式未確認)"
   },
   {
+   "id": "akasaka-kei-2026-12-28-19:30",
+   "date": "2026-12-28",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Bossa Nova & Jazz Club KEI",
+   "pref": "東京",
+   "area": "赤坂",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+   "url": "https://akasakakei.com/",
+   "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+   "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+   "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": "公式の10月予定表(日付)+今日ジャズ(料金)"
+  },
+  {
+   "id": "artjazz-ms-2026-12-28-19:30",
+   "date": "2026-12-28",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
    "id": "acoustic-house-jam-2026-12-28-19:50",
    "date": "2026-12-28",
    "start": "19:50",
@@ -13117,6 +13909,28 @@
    "warn": false,
    "sample": false,
    "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+  },
+  {
+   "id": "artjazz-ms-2027-01-02-x",
+   "date": "2027-01-02",
+   "start": "",
+   "time_note": "午後(開始時刻は公式で確認)",
+   "end": "",
+   "venue": "Art x Jazz M's",
+   "pref": "東京",
+   "area": "国分寺",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+   "url": "http://artjazz-ms.com/",
+   "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+   "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+   "instruments": "ホスト: ドラム・ギター・ベース",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
    "id": "j-flow-2027-01-02-18:00",

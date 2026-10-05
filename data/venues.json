@@ -888,6 +888,60 @@
           "end": "22:30"
         }
       ]
+    },
+    {
+      "id": "akasaka-kei",
+      "name": "Bossa Nova & Jazz Club KEI",
+      "pref": "東京",
+      "area": "赤坂",
+      "genre": [
+        "jazz"
+      ],
+      "address": "東京都港区赤坂6-3-15 J-AKASAKAビルB1",
+      "url": "https://akasakakei.com/",
+      "fee": "社会人3,500円 / 学生2,000円(ミュージックチャージ。飲食・サービス料別)",
+      "level": "毎週月曜のジャムセッション。日曜・祝日は休業(祝日の月曜は休み)",
+      "instruments": "リーダー(日替わり)+ピアノ・ベース・ドラム。3ステージ(19:30/20:40/21:50)",
+      "src": "公式の10月予定表(日付)+今日ジャズ(料金)",
+      "verified": "2026-10-05(公式の予定表で確認)",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:30",
+          "end": "22:30"
+        }
+      ]
+    },
+    {
+      "id": "artjazz-ms",
+      "name": "Art x Jazz M's",
+      "pref": "東京",
+      "area": "国分寺",
+      "genre": [
+        "jazz"
+      ],
+      "address": "東京都国分寺市本町2-7-5 赤星ビルB1",
+      "url": "http://artjazz-ms.com/",
+      "fee": "2,000円+ミニマムオーダー1,400円(英語ガイドの記載・要確認)",
+      "level": "月曜夜と土曜午後がジャム。日曜午後は『Sunday Jazz Happening』",
+      "instruments": "ホスト: ドラム・ギター・ベース",
+      "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認",
+      "verified": "2026-10-05",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:30",
+          "end": "22:00"
+        },
+        {
+          "weekday": 5,
+          "weeks": "every",
+          "start": "",
+          "time_note": "午後(開始時刻は公式で確認)"
+        }
+      ]
     }
   ],
   "overrides": [
@@ -1527,6 +1581,18 @@
         "instruments": "",
         "note": "真っ昼間セッション(開店14:00)"
       }
+    },
+    {
+      "venue": "akasaka-kei",
+      "date": "2026-10-12",
+      "cancel": true,
+      "note": "祝日休業"
+    },
+    {
+      "venue": "akasaka-kei",
+      "date": "2026-11-23",
+      "cancel": true,
+      "note": "祝日休業"
     }
   ]
 }

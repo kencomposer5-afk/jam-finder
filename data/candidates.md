@@ -44,3 +44,8 @@
 ## Googleマップ検索の追加分(ユーザー提供・日程なし)。口コミにセッション/ジャム参加の記述があるもの
 - 阿佐谷 bar klavier(ジャムセッションの口コミ)/西荻ヘブンズドア(著名ミュージシャン主催のセッション)/新宿 ROCINANTE(音楽&セッションバー)/新宿 アイミュージックバー(オープンマイク)/赤坂 Live&Session-Jaka'z/東中野 SUNDAY JAM's CLUB/大塚 バックビート(置き楽器あり・飛び入り可)/東大泉 Ami's Bar(JAZZセッション)/新所沢 le chat et l'ange(ジャム参加可)/調布 music&bar JYUMIN 樹民(セッションライブ)/聖蹟桜ヶ丘 live&bar FULLNOTE/国分寺 Art x Jazz M's/高円寺ほか(AG22、楽や、ムーンストンプ 等は日程情報なし)
 - 次のステップ: 上記の公式サイト/Instagram/告知文があれば、曜日・時間・料金を読み取って登録する
+
+## 公式HPを探した結果(2026-10-05)
+- 登録: KEI(赤坂・公式予定表で確認)/Art x Jazz M's(国分寺)
+- Ami's Bar(東大泉): 公式(amisbar.wordpress.com)の営業案内にジャム/セッションの記載なし(月・火休み)→ライブ中心とみて見送り
+- 公式HPが検索で見つからなかった: bar klavier(阿佐谷・ライブ中心)/ROCINANTE/バックビート/大久保ホットショット/西荻ヘブンズドア/Cafe Dolce Vita/Jaka'z
