@@ -4214,6 +4214,28 @@
    "src": ""
   },
   {
+   "id": "stagecoach-chigasaki-2026-10-28-19:00",
+   "date": "2026-10-28",
+   "start": "19:00",
+   "time_note": "",
+   "end": "",
+   "venue": "STAGECOACH",
+   "pref": "神奈川",
+   "area": "茅ヶ崎",
+   "genre": [
+    "jazz"
+   ],
+   "address": "",
+   "url": "",
+   "fee": "LIVEチャージ1,000円(オーダー別)",
+   "level": "Jazz Session Night。お客様参加可能。月により第5週に開催の変則あり",
+   "instruments": "ホストバンドが毎回替わる",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "店舗のX投稿(@stagecoach253)の告知。公式サイトは未確認"
+  },
+  {
    "start": "19:00",
    "end": "",
    "genre": [
@@ -8433,6 +8455,28 @@
    "src": ""
   },
   {
+   "id": "stagecoach-chigasaki-2026-11-25-19:00",
+   "date": "2026-11-25",
+   "start": "19:00",
+   "time_note": "",
+   "end": "",
+   "venue": "STAGECOACH",
+   "pref": "神奈川",
+   "area": "茅ヶ崎",
+   "genre": [
+    "jazz"
+   ],
+   "address": "",
+   "url": "",
+   "fee": "LIVEチャージ1,000円(オーダー別)",
+   "level": "Jazz Session Night。お客様参加可能。月により第5週に開催の変則あり",
+   "instruments": "ホストバンドが毎回替わる",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "店舗のX投稿(@stagecoach253)の告知。公式サイトは未確認"
+  },
+  {
    "id": "j-flow-2026-11-26-18:00",
    "date": "2026-11-26",
    "start": "18:00",
@@ -12523,6 +12567,28 @@
    "warn": false,
    "sample": false,
    "src": ""
+  },
+  {
+   "id": "stagecoach-chigasaki-2026-12-23-19:00",
+   "date": "2026-12-23",
+   "start": "19:00",
+   "time_note": "",
+   "end": "",
+   "venue": "STAGECOACH",
+   "pref": "神奈川",
+   "area": "茅ヶ崎",
+   "genre": [
+    "jazz"
+   ],
+   "address": "",
+   "url": "",
+   "fee": "LIVEチャージ1,000円(オーダー別)",
+   "level": "Jazz Session Night。お客様参加可能。月により第5週に開催の変則あり",
+   "instruments": "ホストバンドが毎回替わる",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "店舗のX投稿(@stagecoach253)の告知。公式サイトは未確認"
   },
   {
    "id": "j-flow-2026-12-24-18:00",

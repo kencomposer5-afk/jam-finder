@@ -942,6 +942,31 @@
           "time_note": "午後(開始時刻は公式で確認)"
         }
       ]
+    },
+    {
+      "id": "stagecoach-chigasaki",
+      "name": "STAGECOACH",
+      "pref": "神奈川",
+      "area": "茅ヶ崎",
+      "genre": [
+        "jazz"
+      ],
+      "address": "",
+      "url": "",
+      "fee": "LIVEチャージ1,000円(オーダー別)",
+      "level": "Jazz Session Night。お客様参加可能。月により第5週に開催の変則あり",
+      "instruments": "ホストバンドが毎回替わる",
+      "src": "店舗のX投稿(@stagecoach253)の告知。公式サイトは未確認",
+      "verified": "2026-10-05(店舗の告知で確認)",
+      "rules": [
+        {
+          "weekday": 2,
+          "weeks": [
+            4
+          ],
+          "start": "19:00"
+        }
+      ]
     }
   ],
   "overrides": [

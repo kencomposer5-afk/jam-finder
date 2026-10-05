@@ -53,3 +53,8 @@
 ## Googleマップ「ブルース」検索の追加分(ユーザー提供・日程なし)。口コミにセッション記述あり
 - 墨田区江東橋 パピーズ(「毎週水曜日のブルースセッション」の口コミ)/町田 Blues&Jazz BAR Butcher / 町田 MUSIC GARAGE Sheik / 栄町 music lounge BAHAMA(ブルースセッション)/狛江 add9th(ジャズ・ブルースセッションバー)/水道橋 東京倶楽部(ジャムセッション向け)/白楽 BLUES ETTE(日曜のセッション)/ふじみ野 Music Cafe EBONY/阿佐谷 ブルースハウスシカゴ/大倉山 Muddy's/戸塚 Totsuka Bay Blues
 - 点検プログラム(scripts/watch.py)の seeds に公式URLを書くと、毎週ジャム/セッションの記載を自動で解析する
+
+## X検索(ユーザー提供)から
+- 登録: STAGECOACH(茅ヶ崎・毎月第4水曜。店舗の投稿)
+- 1件の告知のみで周期が不明: 四谷 LIVE UNTEN 45(10/1木 ジャム・ホスト 土田晴信/原川誠司)/ 茅ヶ崎 STAGECOACH 金曜のジャズ系セッション(渡辺カルテットがホスト・周期不明)
+- 範囲外(関東以外): 徳島・熊本(Restaurant Bar CIB)・沖縄(SOUND M'S)・大阪 など
