@@ -3,6 +3,11 @@ const ymd = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-$
 const now0 = new Date();
 const state = { view: "cal", month: { y: now0.getFullYear(), m: now0.getMonth() }, sel: ymd(now0), pref: "", genre: "", range: "all", area: "", q: "" };
 let data = { sessions: [] };
+const GENRES = { jazz: ["Jazz", "#e0a526"], blues: ["Blues", "#4a8fe0"], rock: ["Rock", "#e0533d"], funk: ["Funk/Soul", "#9b59d0"],
+  pop: ["Pop", "#e05c9a"], classic: ["クラシック", "#2faa6b"], all: ["ジャンル問わず", "#8a8178"] };
+const gname = g => (GENRES[g] || [g])[0];
+const gcol = g => (GENRES[g] || [0, "#8a8178"])[1];
+const gstyle = gs => `--g:${gcol(gs[0])};--g2:${gcol(gs[1] || gs[0])}`;
 const WD = "日月火水木金土";
 
 function inRange(s) {
@@ -26,10 +31,10 @@ function filtered(useRange) {
 
 function card(s) {
   const c = document.createElement("div");
-  c.className = "card " + (s.genre.length > 1 ? "both" : s.genre[0]);
+  c.className = "card"; c.style.cssText = gstyle(s.genre);
   const map = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(s.venue.replace(/^\(サンプル\)/,"") + " " + s.address);
-  const tags = s.genre.map(g => `<span class="tag">${g}</span>`).join("") + (s.level ? `<span class="tag">${esc(s.level)}</span>` : "");
-  c.innerHTML = `<div class="t">${s.start}${s.end ? "–" + s.end : ""}</div>
+  const tags = s.genre.map(g => `<span class="tag">${esc(gname(g))}</span>`).join("") + (s.level ? `<span class="tag">${esc(s.level)}</span>` : "");
+  c.innerHTML = `<div class="t">${s.time_note ? esc(s.time_note) : s.start + (s.end ? "–" + s.end : "")}</div>
     <div class="v">${esc(s.venue)}</div>
     <div class="m">${esc(s.pref)} ${esc(s.area)} ・ ${esc(s.fee)}</div>
     <div class="m">${esc(s.instruments)}</div>
@@ -42,6 +47,10 @@ function card(s) {
 }
 
 const emptyMsg = () => '<div class="empty">該当するセッションがありません' + (state.pref === "埼玉" || state.pref === "千葉" ? "<br><small>この地域は公式確認済みの会場をまだ登録できていません</small>" : "") + "</div>";
+function buildGenreChips() {
+  const present = Object.keys(GENRES).filter(g => data.sessions.some(s => s.genre.includes(g)));
+  $("#genre").innerHTML = '<button data-v="" class="on">すべて</button>' + present.map(g => `<button data-v="${g}">${esc(gname(g))}</button>`).join("");
+}
 const dayLabel = (iso, today) => { const d = new Date(iso+"T00:00:00"); return `${d.getMonth()+1}/${d.getDate()}(${WD[d.getDay()]})${iso === today ? " 今日" : ""}`; };
 
 function renderList() {
@@ -89,11 +98,12 @@ function renderCalendar() {
     const iso = ymd(dt), list = by[iso] || [], wd = dt.getDay(), hol = HOLIDAYS[iso];
     const cls = ["cell", dt.getMonth() !== m && "adj", iso === today && "today", iso === state.sel && "sel", iso < today && "past", !list.length && "none",
       (wd === 0 || hol) ? "sun" : wd === 6 && "sat"].filter(Boolean).join(" ");
-    const dots = list.slice(0, 6).map(s => `<i class="dot ${s.genre.length > 1 ? "both" : s.genre[0]}"></i>`).join("");
-    const pills = list.slice(0, 3).map(s => `<span class="pill ${s.genre.length > 1 ? "both" : s.genre[0]}">${esc(s.start)} ${esc(s.venue)}</span>`).join("") + (list.length > 3 ? `<span class="more">+${list.length - 3}</span>` : "");
+    const dots = list.slice(0, 6).map(s => `<i class="dot" style="${gstyle(s.genre)}"></i>`).join("");
+    const pills = list.slice(0, 4).map(s => `<span class="pill" style="${gstyle(s.genre)}">${esc(s.start || "午後")} ${esc(s.venue)}</span>`).join("") + (list.length > 4 ? `<span class="more">+${list.length - 4}</span>` : "");
     h += `<button class="${cls}" data-d="${iso}"><span class="n">${dt.getDate()}</span>${hol ? `<span class="hol">${hol}</span>` : ""}<span class="dots">${dots}</span><span class="pills">${pills}</span>${list.length ? `<span class="cnt">${list.length}件</span>` : ""}</button>`;
   }
-  el.innerHTML = h + '</div><div class="legend"><i class="dot jazz"></i>Jazz <i class="dot blues"></i>Blues <i class="dot both"></i>両方</div>';
+  const present = [...new Set(data.sessions.flatMap(s => s.genre))];
+  el.innerHTML = h + '</div><div class="legend">' + present.map(g => `<i class="dot" style="--g:${gcol(g)};--g2:${gcol(g)}"></i>${esc(gname(g))}`).join(" ") + "</div>";
   $("#prev").onclick = () => { state.month = { y: m ? y : y - 1, m: m ? m - 1 : 11 }; state.sel = ""; render(); };
   $("#next").onclick = () => { state.month = { y: m < 11 ? y : y + 1, m: (m + 1) % 12 }; state.sel = ""; render(); };
   el.querySelectorAll(".cell[data-d]").forEach(b => b.onclick = () => {
@@ -134,6 +144,7 @@ fetch("data/sessions.json", { cache: "no-cache" }).then(r => r.json()).then(j =>
   data = j;
   $("#updated").textContent = "最終更新 " + j.updated.replace("T", " ").slice(0, 16);
   [...new Set(j.sessions.map(s => s.area))].sort().forEach(a => $("#area").add(new Option(a, a)));
+  buildGenreChips();
   render();
 }).catch(() => { $("#cal").hidden = false; $("#cal").innerHTML = '<div class="empty">データを読み込めませんでした</div>'; });
 

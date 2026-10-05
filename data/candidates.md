@@ -18,3 +18,8 @@
 ## 東京(追加候補)
 - ROOSTER(荻窪) — 曜日が情報源により月曜/日曜で不一致
 - J-flow(初台)、INDEPENDENCE(池袋)、MANHATTAN(渋谷 金〜日)、いろはこだいらKITAROH(第2・4日曜)、鯨や(国分寺 日曜)
+
+## 2026-10-05 追加の確認結果
+- 登録した: DOLPHY(横浜・第4日曜)、Jazz & Coffee Swan(所沢・第1/3日曜午後)、Music Bar RPM(下北沢・ほぼ毎日)、COCO PALM(西荻窪・クラシック第2月曜)
+- 荻窪ルースター: 公式に「不定期にブルースセッション」とあり、固定ルールにできない
+- 公式サイトで詳細を確認できなかった(曜日・料金の記載なし/閉鎖/403・503): Bar aLive、ゴールデンエッグ、SOMETHIN' JAZZ CLUB(詳細はGoogleドキュメント)、Apple Jump、Montgomery Land、Birdland北千住、BLUES ETTE、LIVE BAR CAVERN、cooljojo、Jazz Spot Candy(稲毛)、Live Cafe SaLa(サイト失効)

@@ -52,3 +52,32 @@ footer{max-width:720px;margin:24px auto;padding:0 16px 40px;font-size:12px;color
   .more{font-size:10px;color:var(--mute)}
   header,.filters,main,footer{max-width:900px}
 }
+
+/* ジャンル色(--g / --g2 をインラインで指定) */
+.card{border-left:5px solid var(--g,var(--jazz))!important;border-right:0!important}
+.dot{background:linear-gradient(90deg,var(--g,var(--jazz)) 50%,var(--g2,var(--g,var(--jazz))) 50%)!important}
+.pill{background:linear-gradient(90deg,color-mix(in srgb,var(--g,var(--jazz)) 28%,transparent) 50%,color-mix(in srgb,var(--g2,var(--g,var(--jazz))) 28%,transparent) 50%)!important}
+.legend{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center}.legend .dot{margin:0 3px 0 0}
+/* カレンダーを大きく(スマホ) */
+#cal{margin:0 -8px}
+.cell{min-height:96px;padding:4px 4px 5px}
+.n{font-size:26px}
+.hol{font-size:9px}
+.dots{gap:4px;margin-top:3px}.dot{width:11px;height:11px}
+.cnt{display:block!important;margin-top:auto;font-size:12px;font-weight:700;color:var(--fg)}
+.cell.sel .cnt{color:var(--fg)}
+.cell.today .n{min-width:34px;height:34px;line-height:34px;font-size:22px}
+.dow{font-size:14px;padding:6px 0}
+.mbig{font-size:72px}
+/* PC */
+@media(min-width:600px){
+  header,.filters,main,footer{max-width:1100px}
+  #cal{margin:0}
+  .cell{min-height:150px;padding:6px 8px}
+  .n{font-size:32px}.hol{font-size:11px}
+  .cell.today .n{min-width:42px;height:42px;line-height:42px;font-size:26px}
+  .cnt{display:none!important}
+  .pill{font-size:12.5px;line-height:1.35;padding:2px 6px;border-radius:5px}
+  .more{font-size:12px}
+  .dow{font-size:15px;padding:8px 0}
+}

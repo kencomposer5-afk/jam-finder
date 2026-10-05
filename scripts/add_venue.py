@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent.parent
 p = argparse.ArgumentParser()
 p.add_argument("--id", required=True); p.add_argument("--name", required=True)
 p.add_argument("--pref", required=True, choices=["東京", "埼玉", "神奈川", "千葉"])
-p.add_argument("--area", required=True); p.add_argument("--genre", nargs="+", required=True, choices=["jazz", "blues"])
+p.add_argument("--area", required=True); p.add_argument("--genre", nargs="+", required=True, choices=["jazz", "blues", "rock", "funk", "pop", "classic", "all"])
 p.add_argument("--url", required=True); p.add_argument("--address", default="")
 p.add_argument("--fee", default=""); p.add_argument("--level", default=""); p.add_argument("--instruments", default="")
 p.add_argument("--rules", required=True, help="JSON配列")
@@ -21,7 +21,7 @@ a = p.parse_args()
 rules = json.loads(a.rules)
 for r in rules:
     assert r["weekday"] in range(7), "weekday は 0(月)〜6(日)"
-    assert re.fullmatch(r"\d{1,2}:\d{2}", r.get("start", "")), "start が必要 (HH:MM)"
+    assert re.fullmatch(r"\d{1,2}:\d{2}", r.get("start", "")) or r.get("time_note"), "start (HH:MM) か time_note が必要"
     assert r.get("weeks", "every") == "every" or isinstance(r["weeks"], list), "weeks は 'every' か配列"
 path = ROOT / "data/venues.json"
 cfg = json.loads(path.read_text(encoding="utf-8"))

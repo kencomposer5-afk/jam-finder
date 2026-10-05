@@ -16,7 +16,7 @@ body:
     attributes: { label: 最寄り駅・エリア, placeholder: "例: 高円寺" }
   - type: checkboxes
     id: genre
-    attributes: { label: ジャンル, options: [{ label: ジャズ }, { label: ブルース }] }
+    attributes: { label: ジャンル, options: [{ label: ジャズ }, { label: ブルース }, { label: ロック }, { label: ファンク/ソウル }, { label: ポップス }, { label: クラシック }, { label: ジャンル問わず }] }
   - type: textarea
     id: schedule
     attributes:

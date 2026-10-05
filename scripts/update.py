@@ -61,9 +61,9 @@ def main():
                 if ov.get("cancel"):
                     continue
                 sessions.append({
-                    "id": f'{v["id"]}-{d.isoformat()}-{rule["start"]}',
+                    "id": f'{v["id"]}-{d.isoformat()}-{rule["start"] or "x"}',
                     "date": d.isoformat(),
-                    "start": ov.get("start", rule["start"]),
+                    "start": ov.get("start", rule["start"]), "time_note": rule.get("time_note", ""),
                     "end": ov.get("end", rule.get("end", "")),
                     "venue": v["name"], "pref": v.get("pref", ""), "area": v["area"],
                     "genre": rule.get("genre", v["genre"]),
@@ -79,7 +79,7 @@ def main():
             sessions.append({**o["extra"], "id": f'{v["id"]}-{o["date"]}-x', "date": o["date"],
                              "venue": v["name"], "pref": v.get("pref", ""), "area": v["area"], "url": v.get("url", ""),
                              "warn": False, "sample": bool(v.get("sample"))})
-    sessions.sort(key=lambda s: (s["date"], s["start"]))
+    sessions.sort(key=lambda s: (s["date"], s["start"] or "12:00"))
     out = {"updated": datetime.now(JST).isoformat(timespec="minutes"), "sessions": sessions}
     (ROOT / "data/sessions.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(sessions)} sessions written")
