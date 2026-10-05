@@ -24,7 +24,7 @@
   "hash": "250d05e77c43"
  },
  "jazz-swan": {
-  "fail": 0,
+  "fail": 1,
   "hash": "4b7c35556e86"
  },
  "rpm-shimokita": {
@@ -48,7 +48,7 @@
   "hash": "47072ec1cf36"
  },
  "nardis-kashiwa": {
-  "fail": 2,
+  "fail": 3,
   "hash": ""
  },
  "hot-house": {
