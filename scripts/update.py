@@ -71,14 +71,14 @@ def main():
                     "fee": rule.get("fee", v.get("fee", "")), "level": v.get("level", ""),
                     "instruments": rule.get("instruments", v.get("instruments", "")),
                     "note": ov.get("note", ""),
-                    "warn": warn, "sample": bool(v.get("sample")),
+                    "warn": warn, "sample": bool(v.get("sample")), "src": v.get("src", ""),
                 })
     for o in cfg.get("overrides", []):  # 臨時開催(extra)
         if o.get("extra") and o["date"] >= today.isoformat():
             v = next(x for x in cfg["venues"] if x["id"] == o["venue"])
             sessions.append({**o["extra"], "id": f'{v["id"]}-{o["date"]}-x', "date": o["date"],
                              "venue": v["name"], "pref": v.get("pref", ""), "area": v["area"], "url": v.get("url", ""),
-                             "warn": False, "sample": bool(v.get("sample"))})
+                             "warn": False, "sample": bool(v.get("sample")), "src": v.get("src", "")})
     sessions.sort(key=lambda s: (s["date"], s["start"] or "12:00"))
     out = {"updated": datetime.now(JST).isoformat(timespec="minutes"), "sessions": sessions}
     (ROOT / "data/sessions.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")

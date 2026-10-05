@@ -23,3 +23,11 @@
 - 登録した: DOLPHY(横浜・第4日曜)、Jazz & Coffee Swan(所沢・第1/3日曜午後)、Music Bar RPM(下北沢・ほぼ毎日)、COCO PALM(西荻窪・クラシック第2月曜)
 - 荻窪ルースター: 公式に「不定期にブルースセッション」とあり、固定ルールにできない
 - 公式サイトで詳細を確認できなかった(曜日・料金の記載なし/閉鎖/403・503): Bar aLive、ゴールデンエッグ、SOMETHIN' JAZZ CLUB(詳細はGoogleドキュメント)、Apple Jump、Montgomery Land、Birdland北千住、BLUES ETTE、LIVE BAR CAVERN、cooljojo、Jazz Spot Candy(稲毛)、Live Cafe SaLa(サイト失効)
+
+## 2026-10-05 ユーザー提供情報の整理
+- 登録を見送った(食い違い・失効・不定期): コットン・カフェ(東松山: 2つの記載が矛盾、公式に日程なし)/Cafe Jazzmal(さいたま: 公式の時間割と一覧が不一致)/停車場(朝霞: 公式ドメインが失効)/Heaven's-Bar(ライブ時のみ)/Live House ORiON(不定期)/swingbirds(ライブのみ)
+- 1日分(10/5)しか情報がなく曜日を決められない: Cafe DOLCE VITA(大久保・月18:30〜22:00 スタンダードジャズセッション)/EXPRESSION(神保町・月19:15 ボーカルセッション)/Live Bar Purpose(小作・月20:00〜23:00 ジャズセッション)
+
+## 今日ジャズ 10/5 掲載分から(1日分のため曜日を決められないもの)
+目白 MARK VI(JAM SESSION Vol.116)/新所沢 Studio Nave(TeaTimeJamSession)/松戸 CORCOVADO(昼・夜)/成田 Cloud9(そらとぶセッション)/経堂 Crazy Love/国分寺 M's/入谷 FOUR & MORE/赤坂 KEI/阿佐ヶ谷 天/渋谷 琥珀/代官山 LEZARD/新宿 GOLDEN EGG(2種類のセッション)/藤沢 soundmarket
+→ 今日ジャズ運営者へ許可を得られれば、会場リストとして参照したい。運営者は継続のための支援を呼びかけている(https://kyoujazz.com/support)。

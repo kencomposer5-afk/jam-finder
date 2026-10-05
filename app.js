@@ -32,7 +32,7 @@ function filtered(useRange) {
 function card(s) {
   const c = document.createElement("div");
   c.className = "card"; c.style.cssText = gstyle(s.genre);
-  const map = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(s.venue.replace(/^\(サンプル\)/,"") + " " + s.address);
+  const map = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(s.venue.replace(/^\(サンプル\)/,"") + " " + (s.address || s.pref + " " + s.area));
   const tags = s.genre.map(g => `<span class="tag">${esc(gname(g))}</span>`).join("") + (s.level ? `<span class="tag">${esc(s.level)}</span>` : "");
   c.innerHTML = `<div class="t">${s.time_note ? esc(s.time_note) : s.start + (s.end ? "–" + s.end : "")}</div>
     <div class="v">${esc(s.venue)}</div>
@@ -42,7 +42,8 @@ function card(s) {
     ${s.note ? `<div class="m">📝 ${esc(s.note)}</div>` : ""}
     ${s.warn ? '<div class="warn">⚠ 会場サイトに休業/中止の記載があります。事前に確認を</div>' : ""}
     ${s.sample ? '<div class="sample">サンプルデータ</div>' : ""}
-    <div class="links"><a href="${esc(s.url)}" target="_blank" rel="noopener">公式</a><a href="${map}" target="_blank" rel="noopener">地図</a></div>`;
+    ${s.src ? `<div class="sample">情報元: ${esc(s.src)}</div>` : ""}
+    <div class="links">${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">公式</a>` : ""}<a href="${map}" target="_blank" rel="noopener">地図</a></div>`;
   return c;
 }
 

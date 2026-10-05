@@ -226,7 +226,7 @@
       ],
       "address": "埼玉県所沢市緑町1-18-1 SHOEIビル1F",
       "url": "http://swan.o.oo7.jp/",
-      "fee": "ライブ500円(前日までの予約で500円引き)",
+      "fee": "2,000円(1ドリンク付)※公式ページに『ライブ500円(前日予約で500円引き)』の記載もあり要確認",
       "level": "若手の登竜門。客参加可",
       "instruments": "第1日曜: 迫優大(Ds)リーダー / 第3日曜: 高木宏真(Pf)・大西慎吾(B)",
       "verified": "2026-10-05",
@@ -234,13 +234,21 @@
         {
           "weekday": 6,
           "weeks": [
-            1,
+            1
+          ],
+          "start": "13:00",
+          "end": "17:00"
+        },
+        {
+          "weekday": 6,
+          "weeks": [
             3
           ],
-          "start": "",
-          "time_note": "午後(開始時刻は公式で確認)"
+          "start": "13:00",
+          "end": "18:00"
         }
-      ]
+      ],
+      "src": "公式ページ+アットジャズ(公式未確認)"
     },
     {
       "id": "rpm-shimokita",
@@ -324,7 +332,377 @@
           "start": "",
           "time_note": "夜(開始時刻は公式で確認)"
         }
+      ],
+      "src": "アットジャズ(10月分の表・公式未確認)"
+    },
+    {
+      "id": "bar-alive",
+      "name": "Bar aLive",
+      "pref": "東京",
+      "area": "新宿・歌舞伎町",
+      "genre": [
+        "jazz"
+      ],
+      "address": "",
+      "url": "",
+      "fee": "",
+      "level": "セッション終了後はBarタイム(飲食代別・要2オーダー)",
+      "instruments": "日替わりホスト",
+      "src": "アットジャズ(10月分の表・公式未確認)",
+      "verified": "2026-10-05(ユーザー提供の表)",
+      "rules": []
+    },
+    {
+      "id": "jazoo",
+      "name": "JAZOO",
+      "pref": "東京",
+      "area": "浅草",
+      "genre": [
+        "jazz"
+      ],
+      "address": "",
+      "url": "",
+      "fee": "",
+      "level": "",
+      "instruments": "",
+      "src": "アットジャズ(10月分の表・公式未確認)",
+      "verified": "2026-10-05(ユーザー提供の表)",
+      "rules": []
+    },
+    {
+      "id": "circle-yokohama",
+      "name": "音空間Circle",
+      "pref": "神奈川",
+      "area": "横浜",
+      "genre": [
+        "jazz"
+      ],
+      "address": "",
+      "url": "",
+      "fee": "",
+      "level": "リスナー参加あり(1,500円+オーダー)",
+      "instruments": "",
+      "src": "アットジャズ(10月分の表・公式未確認)",
+      "verified": "2026-10-05(ユーザー提供の表)",
+      "rules": []
+    },
+    {
+      "id": "j-flow",
+      "name": "JazzセッションCafe J-flow",
+      "pref": "東京",
+      "area": "錦糸町・墨田区",
+      "genre": [
+        "jazz"
+      ],
+      "address": "",
+      "url": "",
+      "fee": "2,800〜3,200円+オーダー(日により変動)",
+      "level": "毎日ホストが替わる",
+      "instruments": "ホスト+リズムセクション",
+      "src": "アットジャズ(10月分の表・公式未確認)",
+      "verified": "2026-10-05(ユーザー提供の表)",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "18:00",
+          "end": "22:00"
+        },
+        {
+          "weekday": 2,
+          "weeks": "every",
+          "start": "18:00",
+          "end": "22:00"
+        },
+        {
+          "weekday": 3,
+          "weeks": "every",
+          "start": "18:00",
+          "end": "22:00"
+        },
+        {
+          "weekday": 4,
+          "weeks": "every",
+          "start": "18:00",
+          "end": "22:00"
+        },
+        {
+          "weekday": 5,
+          "weeks": "every",
+          "start": "18:00",
+          "end": "22:00"
+        },
+        {
+          "weekday": 6,
+          "weeks": "every",
+          "start": "15:30",
+          "end": "20:00"
+        }
       ]
+    },
+    {
+      "id": "kin-no-tsubo",
+      "name": "ライブ居酒屋 キンのツボ",
+      "pref": "東京",
+      "area": "世田谷(用賀)",
+      "genre": [
+        "jazz"
+      ],
+      "address": "",
+      "url": "",
+      "fee": "2,000円(1ドリンク付・料理提供なし)",
+      "level": "昼のセッション",
+      "instruments": "",
+      "src": "アットジャズ(10月分の表・公式未確認)+検索結果",
+      "verified": "2026-10-05(ユーザー提供の表。料金は検索結果の記載)",
+      "rules": [
+        {
+          "weekday": 6,
+          "weeks": [
+            2,
+            4
+          ],
+          "start": "14:00",
+          "end": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "sugar-hill",
+      "name": "jazz&drinks Sugar Hill",
+      "pref": "埼玉",
+      "area": "草加",
+      "genre": [
+        "jazz"
+      ],
+      "address": "埼玉県草加市住吉1-4-9",
+      "url": "https://www.sugarhill.jp/schedule/",
+      "fee": "1,500円+飲食代(見学は参加費無料)",
+      "level": "毎月恒例の『真っ昼間セッション』。お客様がステージで演奏",
+      "src": "公式の日程ページ(日付)+アットジャズ(公式未確認)(時間・料金)",
+      "rules": [],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "orikaza",
+      "name": "織歌座",
+      "pref": "埼玉",
+      "area": "三郷",
+      "genre": [
+        "jazz"
+      ],
+      "address": "埼玉県三郷市早稲田2-17-5 2F",
+      "fee": "入場料1,000円",
+      "level": "飛び入り大歓迎。昼はベテラン、夜は若手がホストバンド",
+      "instruments": "ピアノ・ドラム等完備",
+      "src": "アットジャズ(公式未確認)・公式サイトは確認できず",
+      "rules": [
+        {
+          "weekday": 6,
+          "weeks": [
+            4
+          ],
+          "start": "13:00",
+          "end": "17:00"
+        },
+        {
+          "weekday": 6,
+          "weeks": [
+            4
+          ],
+          "start": "18:00"
+        }
+      ],
+      "url": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "mandara",
+      "name": "曼陀羅",
+      "pref": "埼玉",
+      "area": "ふじみ野(上福岡)",
+      "genre": [
+        "jazz"
+      ],
+      "address": "埼玉県ふじみ野市上福岡6-3-9",
+      "url": "http://www5f.biglobe.ne.jp/~mandara/",
+      "fee": "1,000円〜",
+      "level": "第1土曜はジャズ、第3土曜はブルースのジャム",
+      "src": "アットジャズ(公式未確認)・公式で日程は確認できず",
+      "rules": [
+        {
+          "weekday": 5,
+          "weeks": [
+            1
+          ],
+          "start": "20:30",
+          "end": "22:30",
+          "genre": [
+            "jazz"
+          ]
+        },
+        {
+          "weekday": 5,
+          "weeks": [
+            3
+          ],
+          "start": "20:30",
+          "end": "22:30",
+          "genre": [
+            "blues"
+          ]
+        }
+      ],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "acoustic-house-jam",
+      "name": "ACOUSTIC HOUSE JAM",
+      "pref": "埼玉",
+      "area": "大宮",
+      "genre": [
+        "jazz"
+      ],
+      "address": "埼玉県さいたま市大宮区宮町5-126",
+      "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+      "fee": "ジャムセッション1,500円",
+      "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+      "src": "アットジャズ(公式未確認)・公式で日程は確認できず",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:50",
+          "end": "22:40"
+        },
+        {
+          "weekday": 3,
+          "weeks": "every",
+          "start": "19:50",
+          "end": "22:40"
+        },
+        {
+          "weekday": 4,
+          "weeks": "every",
+          "start": "19:50",
+          "end": "22:40"
+        },
+        {
+          "weekday": 5,
+          "weeks": "every",
+          "start": "19:50",
+          "end": "22:40"
+        },
+        {
+          "weekday": 6,
+          "weeks": "every",
+          "start": "15:00"
+        }
+      ],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "corcovado-tama",
+      "name": "音楽工房コルコバード",
+      "pref": "東京",
+      "area": "多摩センター",
+      "genre": [
+        "jazz"
+      ],
+      "fee": "1,500円+1ドリンク",
+      "level": "月曜はジャズセッション",
+      "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        },
+        {
+          "weekday": 3,
+          "weeks": "every",
+          "start": "19:30"
+        }
+      ],
+      "address": "",
+      "url": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "pianishimo",
+      "name": "Public House ぴあにしも",
+      "pref": "神奈川",
+      "area": "川崎",
+      "genre": [
+        "jazz"
+      ],
+      "address": "神奈川県川崎市川崎区小川町16-15 ヒロサワビル103",
+      "fee": "参加費2,500円",
+      "level": "Monday JAM Session",
+      "src": "今日ジャズ(公式未確認)",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:00"
+        }
+      ],
+      "url": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "atelier-verano",
+      "name": "Atelier Verano",
+      "pref": "東京",
+      "area": "千歳烏山",
+      "genre": [
+        "jazz"
+      ],
+      "fee": "2,500円(1ドリンク付)/リスナー1,500円",
+      "level": "月曜セッション。ホストバンドあり",
+      "src": "今日ジャズ(10/5掲載分・公式未確認)",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "22:00"
+        }
+      ],
+      "address": "",
+      "url": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "w-jaz",
+      "name": "w.jaz",
+      "pref": "東京",
+      "area": "西荻窪",
+      "genre": [
+        "jazz"
+      ],
+      "fee": "2,000円+2ドリンクオーダー",
+      "level": "Monday session(参加型セッション)。オープン19:00",
+      "src": "今日ジャズ(10/5掲載分・公式未確認)",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:30",
+          "end": "22:30"
+        }
+      ],
+      "address": "",
+      "url": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
     }
   ],
   "overrides": [
@@ -349,6 +727,621 @@
       "date": "2026-10-28",
       "cancel": true,
       "note": "この日はライブのみ"
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-05",
+      "extra": {
+        "start": "19:30",
+        "end": "22:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-07",
+      "extra": {
+        "start": "14:00",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": "初心者歓迎の超ゆるジャズセッション"
+      }
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-10",
+      "extra": {
+        "start": "14:00",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-11",
+      "extra": {
+        "start": "14:00",
+        "end": "17:00",
+        "genre": [
+          "funk"
+        ],
+        "address": "",
+        "fee": "2,300円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": "ファンク・ソウルセッション"
+      }
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-13",
+      "extra": {
+        "start": "14:00",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-21",
+      "extra": {
+        "start": "14:00",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-23",
+      "extra": {
+        "start": "19:30",
+        "end": "22:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "coco-palm",
+      "date": "2026-10-27",
+      "extra": {
+        "start": "14:00",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-06",
+      "extra": {
+        "start": "19:30",
+        "end": "22:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": "nao's Live & Jam Session"
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-07",
+      "extra": {
+        "start": "19:30",
+        "end": "22:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "1,500円",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-08",
+      "extra": {
+        "start": "19:30",
+        "end": "22:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "1,500円",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-09",
+      "extra": {
+        "start": "19:00",
+        "end": "22:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": "オープンマイク(終了後Barタイム)"
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-10",
+      "extra": {
+        "start": "17:30",
+        "end": "20:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-17",
+      "extra": {
+        "start": "19:30",
+        "end": "22:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-18",
+      "extra": {
+        "start": "17:30",
+        "end": "20:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "1,500円",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "bar-alive",
+      "date": "2026-10-22",
+      "extra": {
+        "start": "19:30",
+        "end": "22:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円",
+        "level": "要2オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-07",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-13",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円",
+        "level": "",
+        "instruments": "",
+        "note": "みのん Jam Session"
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-14",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-15",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円(2オーダー)",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-19",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-20",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-27",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "3,000円",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "jazoo",
+      "date": "2026-10-28",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-08",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,300円+オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-10",
+      "extra": {
+        "start": "18:30",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,500円+2オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-11",
+      "extra": {
+        "start": "18:30",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,300円+オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-21",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円+2オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-22",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円+2オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-23",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,300円+オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-24",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,300円+オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "circle-yokohama",
+      "date": "2026-10-28",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円+2オーダー",
+        "level": "リスナー1,500円+オーダー",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "j-flow",
+      "date": "2026-10-12",
+      "start": "15:30",
+      "end": "20:00",
+      "note": "祝日は午後の時間帯"
+    },
+    {
+      "venue": "j-flow",
+      "date": "2026-10-22",
+      "extra": {
+        "start": "13:00",
+        "end": "16:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,300円+オーダー",
+        "level": "",
+        "instruments": "",
+        "note": "昼のセッション"
+      }
+    },
+    {
+      "venue": "j-flow",
+      "date": "2026-10-24",
+      "extra": {
+        "start": "13:00",
+        "end": "15:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "",
+        "level": "",
+        "instruments": "",
+        "note": "昼のセッション"
+      }
+    },
+    {
+      "venue": "j-flow",
+      "date": "2026-10-30",
+      "extra": {
+        "start": "14:00",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,300円",
+        "level": "",
+        "instruments": "",
+        "note": "昼のセッション"
+      }
+    },
+    {
+      "venue": "j-flow",
+      "date": "2026-10-31",
+      "extra": {
+        "start": "10:30",
+        "end": "12:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "",
+        "level": "",
+        "instruments": "",
+        "note": "昼のセッション"
+      }
+    },
+    {
+      "venue": "sugar-hill",
+      "date": "2026-10-18",
+      "extra": {
+        "start": "14:30",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "埼玉県草加市住吉1-4-9",
+        "fee": "1,500円+飲食代",
+        "level": "",
+        "instruments": "",
+        "note": "真っ昼間セッション(開店14:00)"
+      }
+    },
+    {
+      "venue": "sugar-hill",
+      "date": "2026-11-22",
+      "extra": {
+        "start": "14:30",
+        "end": "17:00",
+        "genre": [
+          "jazz"
+        ],
+        "address": "埼玉県草加市住吉1-4-9",
+        "fee": "1,500円+飲食代",
+        "level": "",
+        "instruments": "",
+        "note": "真っ昼間セッション(開店14:00)"
+      }
     }
   ]
 }
