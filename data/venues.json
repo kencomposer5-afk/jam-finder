@@ -1,0 +1,214 @@
+{
+  "_note": "ここを編集するだけで日程が自動で埋まります。verified は公式サイトで確認した日付。変更があれば公式を確認して更新してください。",
+  "venues": [
+    {
+      "id": "bright-brown",
+      "name": "Bright Brown",
+      "area": "中野",
+      "genre": [
+        "blues"
+      ],
+      "address": "東京都中野区 Bright Brown",
+      "url": "https://brightbrownnakano.wixsite.com/brightbrown/session",
+      "fee": "チャージ1,000円 + 1オーダー1,000円",
+      "level": "プロ〜アマ・学生まで誰でも",
+      "instruments": "ブルースセッション。どなたでも参加可",
+      "verified": "2026-10-05",
+      "rules": [
+        {
+          "weekday": 3,
+          "weeks": "every",
+          "start": "19:30",
+          "end": "22:30"
+        }
+      ],
+      "pref": "東京"
+    },
+    {
+      "id": "catfish",
+      "name": "Catfish(蒲田)",
+      "area": "蒲田",
+      "genre": [
+        "blues"
+      ],
+      "address": "東京都大田区蒲田5-30-15 第20シモカワビルB103",
+      "url": "https://www.catfishtokyo.com/",
+      "fee": "1,000円 + 1ドリンク(見学はドリンクのみ)",
+      "level": "誰でも",
+      "instruments": "T.G.I.F. ブルースセッション",
+      "verified": "2026-10-05",
+      "rules": [
+        {
+          "weekday": 4,
+          "weeks": "every",
+          "start": "19:30"
+        },
+        {
+          "weekday": 5,
+          "weeks": [
+            4
+          ],
+          "start": "13:30",
+          "fee": "1,000円 + 1ドリンク",
+          "instruments": "Chicago Style Blues Session(演奏者募集)"
+        },
+        {
+          "weekday": 5,
+          "weeks": [
+            4
+          ],
+          "start": "18:30",
+          "fee": "2,000円 + 1ドリンク",
+          "instruments": "BLUES系なんでもセッション"
+        }
+      ],
+      "pref": "東京"
+    },
+    {
+      "id": "jazzspot-intro",
+      "name": "JazzSpot Intro",
+      "area": "高田馬場",
+      "genre": [
+        "jazz"
+      ],
+      "address": "東京都新宿区(高田馬場駅 徒歩5分)",
+      "url": "https://jazzspot.intro.co.jp/",
+      "fee": "入場料2,000円(1ドリンク付)",
+      "level": "練習ジャム。若手中心",
+      "instruments": "ジャムセッション(土曜はオールナイト)",
+      "verified": "2026-10-05",
+      "rules": [
+        {
+          "weekday": 1,
+          "weeks": "every",
+          "start": "18:30",
+          "end": "24:00"
+        },
+        {
+          "weekday": 2,
+          "weeks": "every",
+          "start": "18:30",
+          "end": "24:00"
+        },
+        {
+          "weekday": 3,
+          "weeks": "every",
+          "start": "18:30",
+          "end": "24:00"
+        },
+        {
+          "weekday": 4,
+          "weeks": "every",
+          "start": "18:30",
+          "end": "24:00"
+        },
+        {
+          "weekday": 5,
+          "weeks": "every",
+          "start": "18:30",
+          "end": "翌4:30"
+        },
+        {
+          "weekday": 6,
+          "weeks": "every",
+          "start": "18:30",
+          "end": "24:00"
+        }
+      ],
+      "pref": "東京"
+    },
+    {
+      "id": "kikuna-jam",
+      "name": "Kikuna Jam",
+      "pref": "神奈川",
+      "area": "横浜・菊名",
+      "genre": [
+        "jazz"
+      ],
+      "address": "横浜市港北区菊名7-5-10 菊名アメニティ1F",
+      "url": "https://kikunalivejam.wixsite.com/kikunalivejam",
+      "fee": "1,200円(1ドリンク付)",
+      "level": "セッション専門。毎日ホストメンバーが在籍",
+      "instruments": "曜日によりホストの楽器が異なる(詳細は公式)",
+      "verified": "2026-10-05",
+      "rules": [
+        {
+          "weekday": 0,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        },
+        {
+          "weekday": 1,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        },
+        {
+          "weekday": 2,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        },
+        {
+          "weekday": 3,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        },
+        {
+          "weekday": 4,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        },
+        {
+          "weekday": 5,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        },
+        {
+          "weekday": 6,
+          "weeks": "every",
+          "start": "19:00",
+          "end": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "yoyogi-naru",
+      "name": "代々木NARU",
+      "pref": "東京",
+      "area": "代々木・渋谷",
+      "genre": [
+        "jazz"
+      ],
+      "address": "東京都渋谷区代々木1-36-12 TCビル77 B1F",
+      "url": "http://www.yoyogi-naru.com/",
+      "fee": "参加者3,500円(1ドリンク付)",
+      "level": "ボーカルセッション",
+      "instruments": "ホスト: Pf/Ba/Dr",
+      "verified": "2026-10-05",
+      "rules": []
+    }
+  ],
+  "overrides": [
+    {
+      "venue": "yoyogi-naru",
+      "date": "2026-10-10",
+      "extra": {
+        "start": "13:00",
+        "end": "16:30",
+        "genre": [
+          "jazz"
+        ],
+        "address": "東京都渋谷区代々木1-36-12 TCビル77 B1F",
+        "fee": "参加者3,500円(1ドリンク付)",
+        "level": "ボーカルセッション",
+        "instruments": "ホスト: Pf/Ba/Dr",
+        "note": "昼のボーカルセッション(公式10月予定のうち確認できた1件)"
+      }
+    }
+  ]
+}

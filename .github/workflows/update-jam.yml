@@ -1,0 +1,42 @@
+name: Update jam sessions and deploy
+on:
+  schedule:
+    - cron: "0 20 * * *"   # 毎日 05:00 JST
+  workflow_dispatch:
+  push:
+    paths-ignore: ["README.md", "docs/**"]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: jam-deploy
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/update.py
+      - name: Commit if changed
+        run: |
+          git config user.name "jam-bot"
+          git config user.email "jam-bot@users.noreply.github.com"
+          git add data/sessions.json
+          git diff --cached --quiet || (git commit -m "chore: update jam sessions" && git push)
+      - name: Collect site files
+        run: |
+          mkdir _site
+          cp -r index.html app.js app.css sw.js manifest.json data _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.d.outputs.page_url }}
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4
