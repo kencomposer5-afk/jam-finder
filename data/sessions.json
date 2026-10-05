@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T15:41+09:00",
+ "updated": "2026-10-05T15:44+09:00",
  "sessions": [
   {
    "id": "j-flow-2026-10-05-18:00",
@@ -219,28 +219,6 @@
    "warn": false,
    "sample": false,
    "src": "アットジャズ(10月分の表・公式未確認)"
-  },
-  {
-   "id": "acoustic-house-jam-2026-10-05-19:50",
-   "date": "2026-10-05",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-10-06-18:30",
@@ -677,28 +655,6 @@
    "src": "アットジャズ(10月分の表・公式未確認)"
   },
   {
-   "id": "acoustic-house-jam-2026-10-08-19:50",
-   "date": "2026-10-08",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "studio-wuu-2026-10-08-20:00",
    "date": "2026-10-08",
    "start": "20:00",
@@ -852,9 +808,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-10-09-19:50",
+   "id": "acoustic-house-jam-2026-10-09-19:30",
    "date": "2026-10-09",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -866,12 +822,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-10-10-x",
@@ -894,6 +850,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "start": "",
+   "time_note": "夜(開始時刻は公式で確認)",
+   "end": "",
+   "genre": [
+    "all"
+   ],
+   "address": "",
+   "fee": "500円",
+   "level": "",
+   "instruments": "",
+   "note": "オープンマイク",
+   "id": "ebisu-cafe-hanno-2026-10-10-x",
+   "date": "2026-10-10",
+   "venue": "ヱビス・カフェ",
+   "pref": "埼玉",
+   "area": "飯能",
+   "url": "",
+   "warn": false,
+   "sample": false,
+   "src": "セッションマップ(直近2週間の掲載分・公式未確認)(日付のみ)"
   },
   {
    "start": "13:00",
@@ -936,6 +914,28 @@
    "warn": false,
    "sample": false,
    "src": "アットジャズ(10月分の表・公式未確認)"
+  },
+  {
+   "id": "acoustic-house-jam-2026-10-10-15:00",
+   "date": "2026-10-10",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "start": "17:30",
@@ -1112,26 +1112,25 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-10-10-19:50",
-   "date": "2026-10-10",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
+   "start": "19:30",
+   "end": "",
    "genre": [
     "jazz"
    ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "address": "",
+   "fee": "参加者2,000円 / 見学1,000円 / T/C 500円+drink",
+   "level": "",
    "instruments": "",
    "note": "",
+   "id": "sunnyside-takesato-2026-10-10-x",
+   "date": "2026-10-10",
+   "venue": "Jazz Bar 武里SUNNY SIDE",
+   "pref": "埼玉",
+   "area": "春日部(武里)",
+   "url": "http://sunnyside-jazzclub.com/",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "セッションマップ(直近2週間の掲載分・公式未確認)(日付のみ)"
   },
   {
    "id": "nardis-kashiwa-2026-10-11-x",
@@ -1213,12 +1212,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-11-15:30",
@@ -1286,6 +1285,27 @@
    "src": "アットジャズ(10月分の表・公式未確認)"
   },
   {
+   "start": "18:30",
+   "end": "",
+   "genre": [
+    "jazz"
+   ],
+   "address": "",
+   "fee": "2,000円+2オーダー",
+   "level": "",
+   "instruments": "",
+   "note": "ジャムセッション",
+   "id": "city-lights-omiya-2026-10-11-x",
+   "date": "2026-10-11",
+   "venue": "MUSIC & LIVE BAR CITY LIGHTS",
+   "pref": "埼玉",
+   "area": "大宮",
+   "url": "",
+   "warn": false,
+   "sample": false,
+   "src": "セッションマップ(直近2週間の掲載分・公式未確認)(日付のみ)"
+  },
+  {
    "id": "kikuna-jam-2026-10-11-19:00",
    "date": "2026-10-11",
    "start": "19:00",
@@ -1350,6 +1370,27 @@
    "warn": false,
    "sample": false,
    "src": "アットジャズ(10月分の表・公式未確認)"
+  },
+  {
+   "start": "15:00",
+   "end": "",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "fee": "ジャムセッション1,500円",
+   "level": "",
+   "instruments": "",
+   "note": "ホリデーアフタヌーンジャム(祝日)",
+   "id": "acoustic-house-jam-2026-10-12-x",
+   "date": "2026-10-12",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-12-18:00",
@@ -1526,28 +1567,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-10-12-19:50",
-   "date": "2026-10-12",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "start": "14:00",
@@ -1920,6 +1939,27 @@
    "src": "アットジャズ(10月分の表・公式未確認)"
   },
   {
+   "start": "19:00",
+   "end": "",
+   "genre": [
+    "jazz"
+   ],
+   "address": "",
+   "fee": "1,500円",
+   "level": "",
+   "instruments": "",
+   "note": "Jazzセッション",
+   "id": "ebisu-cafe-hanno-2026-10-15-x",
+   "date": "2026-10-15",
+   "venue": "ヱビス・カフェ",
+   "pref": "埼玉",
+   "area": "飯能",
+   "url": "",
+   "warn": false,
+   "sample": false,
+   "src": "セッションマップ(直近2週間の掲載分・公式未確認)(日付のみ)"
+  },
+  {
    "id": "bright-brown-2026-10-15-19:30",
    "date": "2026-10-15",
    "start": "19:30",
@@ -1962,28 +2002,6 @@
    "warn": false,
    "sample": false,
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-10-15-19:50",
-   "date": "2026-10-15",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-16-18:00",
@@ -2096,9 +2114,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-10-16-19:50",
+   "id": "acoustic-house-jam-2026-10-16-19:30",
    "date": "2026-10-16",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -2110,12 +2128,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-10-17-x",
@@ -2138,6 +2156,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-10-17-15:00",
+   "date": "2026-10-17",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-17-18:00",
@@ -2271,28 +2311,6 @@
    "src": "アットジャズ(10月分の表・公式未確認)"
   },
   {
-   "id": "acoustic-house-jam-2026-10-17-19:50",
-   "date": "2026-10-17",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "mandara-2026-10-17-20:30",
    "date": "2026-10-17",
    "start": "20:30",
@@ -2394,12 +2412,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-18-15:30",
@@ -2728,28 +2746,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-10-19-19:50",
-   "date": "2026-10-19",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-10-20-18:30",
@@ -3186,28 +3182,6 @@
    "src": "アットジャズ(10月分の表・公式未確認)"
   },
   {
-   "id": "acoustic-house-jam-2026-10-22-19:50",
-   "date": "2026-10-22",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2026-10-23-18:00",
    "date": "2026-10-23",
    "start": "18:00",
@@ -3339,6 +3313,28 @@
    "src": ""
   },
   {
+   "id": "acoustic-house-jam-2026-10-23-19:30",
+   "date": "2026-10-23",
+   "start": "19:30",
+   "time_note": "",
+   "end": "22:40",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
+  },
+  {
    "start": "19:30",
    "end": "22:30",
    "genre": [
@@ -3358,28 +3354,6 @@
    "warn": false,
    "sample": false,
    "src": "アットジャズ(10月分の表・公式未確認)"
-  },
-  {
-   "id": "acoustic-house-jam-2026-10-23-19:50",
-   "date": "2026-10-23",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-10-24-x",
@@ -3445,6 +3419,28 @@
    "warn": false,
    "sample": false,
    "src": ""
+  },
+  {
+   "id": "acoustic-house-jam-2026-10-24-15:00",
+   "date": "2026-10-24",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-24-18:00",
@@ -3600,28 +3596,6 @@
    "src": "アットジャズ(10月分の表・公式未確認)"
   },
   {
-   "id": "acoustic-house-jam-2026-10-24-19:50",
-   "date": "2026-10-24",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "orikaza-2026-10-25-13:00",
    "date": "2026-10-25",
    "start": "13:00",
@@ -3680,12 +3654,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-25-15:30",
@@ -4016,28 +3990,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-10-26-19:50",
-   "date": "2026-10-26",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "start": "14:00",
@@ -4432,28 +4384,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-10-29-19:50",
-   "date": "2026-10-29",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "start": "14:00",
    "end": "17:00",
    "genre": [
@@ -4585,9 +4515,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-10-30-19:50",
+   "id": "acoustic-house-jam-2026-10-30-19:30",
    "date": "2026-10-30",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -4599,12 +4529,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "start": "10:30",
@@ -4648,6 +4578,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-10-31-15:00",
+   "date": "2026-10-31",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-10-31-18:00",
@@ -4760,28 +4712,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-10-31-19:50",
-   "date": "2026-10-31",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "jazz-swan-2026-11-01-13:00",
    "date": "2026-11-01",
    "start": "13:00",
@@ -4840,12 +4770,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-01-15:30",
@@ -5132,28 +5062,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-11-02-19:50",
-   "date": "2026-11-02",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-11-03-18:30",
@@ -5464,28 +5372,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-11-05-19:50",
-   "date": "2026-11-05",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2026-11-06-18:00",
    "date": "2026-11-06",
    "start": "18:00",
@@ -5596,9 +5482,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-06-19:50",
+   "id": "acoustic-house-jam-2026-11-06-19:30",
    "date": "2026-11-06",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -5610,12 +5496,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-11-07-x",
@@ -5638,6 +5524,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-11-07-15:00",
+   "date": "2026-11-07",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-07-18:00",
@@ -5750,28 +5658,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-07-19:50",
-   "date": "2026-11-07",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "mandara-2026-11-07-20:30",
    "date": "2026-11-07",
    "start": "20:30",
@@ -5852,12 +5738,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-08-15:30",
@@ -6168,28 +6054,6 @@
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-11-09-19:50",
-   "date": "2026-11-09",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "jazzspot-intro-2026-11-10-18:30",
    "date": "2026-11-10",
    "start": "18:30",
@@ -6498,28 +6362,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-11-12-19:50",
-   "date": "2026-11-12",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "studio-wuu-2026-11-12-20:00",
    "date": "2026-11-12",
    "start": "20:00",
@@ -6652,9 +6494,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-13-19:50",
+   "id": "acoustic-house-jam-2026-11-13-19:30",
    "date": "2026-11-13",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -6666,12 +6508,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-11-14-x",
@@ -6694,6 +6536,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-11-14-15:00",
+   "date": "2026-11-14",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-14-18:00",
@@ -6828,28 +6692,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-14-19:50",
-   "date": "2026-11-14",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "clipper-2026-11-15-x",
    "date": "2026-11-15",
    "start": "",
@@ -6908,12 +6750,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-15-15:30",
@@ -7200,28 +7042,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-11-16-19:50",
-   "date": "2026-11-16",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-11-17-18:30",
@@ -7554,28 +7374,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-11-19-19:50",
-   "date": "2026-11-19",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2026-11-20-18:00",
    "date": "2026-11-20",
    "start": "18:00",
@@ -7686,9 +7484,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-20-19:50",
+   "id": "acoustic-house-jam-2026-11-20-19:30",
    "date": "2026-11-20",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -7700,12 +7498,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-11-21-x",
@@ -7728,6 +7526,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-11-21-15:00",
+   "date": "2026-11-21",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-21-18:00",
@@ -7840,28 +7660,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-21-19:50",
-   "date": "2026-11-21",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "mandara-2026-11-21-20:30",
    "date": "2026-11-21",
    "start": "20:30",
@@ -7963,12 +7761,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-22-15:30",
@@ -8277,28 +8075,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-11-23-19:50",
-   "date": "2026-11-23",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-11-24-18:30",
@@ -8631,28 +8407,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-11-26-19:50",
-   "date": "2026-11-26",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2026-11-27-18:00",
    "date": "2026-11-27",
    "start": "18:00",
@@ -8763,9 +8517,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-27-19:50",
+   "id": "acoustic-house-jam-2026-11-27-19:30",
    "date": "2026-11-27",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -8777,12 +8531,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-11-28-x",
@@ -8827,6 +8581,28 @@
    "warn": false,
    "sample": false,
    "src": ""
+  },
+  {
+   "id": "acoustic-house-jam-2026-11-28-15:00",
+   "date": "2026-11-28",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-28-18:00",
@@ -8961,28 +8737,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-11-28-19:50",
-   "date": "2026-11-28",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "acoustic-house-jam-2026-11-29-15:00",
    "date": "2026-11-29",
    "start": "15:00",
@@ -8997,12 +8751,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-11-29-15:30",
@@ -9289,28 +9043,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-11-30-19:50",
-   "date": "2026-11-30",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-12-01-18:30",
@@ -9621,28 +9353,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-12-03-19:50",
-   "date": "2026-12-03",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2026-12-04-18:00",
    "date": "2026-12-04",
    "start": "18:00",
@@ -9753,9 +9463,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-04-19:50",
+   "id": "acoustic-house-jam-2026-12-04-19:30",
    "date": "2026-12-04",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -9767,12 +9477,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-12-05-x",
@@ -9795,6 +9505,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-12-05-15:00",
+   "date": "2026-12-05",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-05-18:00",
@@ -9907,28 +9639,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-05-19:50",
-   "date": "2026-12-05",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "mandara-2026-12-05-20:30",
    "date": "2026-12-05",
    "start": "20:30",
@@ -10009,12 +9719,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-06-15:30",
@@ -10301,28 +10011,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-12-07-19:50",
-   "date": "2026-12-07",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-12-08-18:30",
@@ -10633,28 +10321,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-12-10-19:50",
-   "date": "2026-12-10",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "studio-wuu-2026-12-10-20:00",
    "date": "2026-12-10",
    "start": "20:00",
@@ -10787,9 +10453,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-11-19:50",
+   "id": "acoustic-house-jam-2026-12-11-19:30",
    "date": "2026-12-11",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -10801,12 +10467,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-12-12-x",
@@ -10829,6 +10495,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-12-12-15:00",
+   "date": "2026-12-12",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-12-18:00",
@@ -10963,28 +10651,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-12-19:50",
-   "date": "2026-12-12",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "nardis-kashiwa-2026-12-13-x",
    "date": "2026-12-13",
    "start": "",
@@ -11043,12 +10709,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-13-15:30",
@@ -11357,28 +11023,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-12-14-19:50",
-   "date": "2026-12-14",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-12-15-18:30",
@@ -11711,28 +11355,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-12-17-19:50",
-   "date": "2026-12-17",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2026-12-18-18:00",
    "date": "2026-12-18",
    "start": "18:00",
@@ -11843,9 +11465,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-18-19:50",
+   "id": "acoustic-house-jam-2026-12-18-19:30",
    "date": "2026-12-18",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -11857,12 +11479,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-12-19-x",
@@ -11885,6 +11507,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2026-12-19-15:00",
+   "date": "2026-12-19",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-19-18:00",
@@ -11997,28 +11641,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-19-19:50",
-   "date": "2026-12-19",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "mandara-2026-12-19-20:30",
    "date": "2026-12-19",
    "start": "20:30",
@@ -12099,12 +11721,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-20-15:30",
@@ -12391,28 +12013,6 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
-  },
-  {
-   "id": "acoustic-house-jam-2026-12-21-19:50",
-   "date": "2026-12-21",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
   },
   {
    "id": "jazzspot-intro-2026-12-22-18:30",
@@ -12745,28 +12345,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-12-24-19:50",
-   "date": "2026-12-24",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2026-12-25-18:00",
    "date": "2026-12-25",
    "start": "18:00",
@@ -12877,9 +12455,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-25-19:50",
+   "id": "acoustic-house-jam-2026-12-25-19:30",
    "date": "2026-12-25",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -12891,12 +12469,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2026-12-26-x",
@@ -12941,6 +12519,28 @@
    "warn": false,
    "sample": false,
    "src": ""
+  },
+  {
+   "id": "acoustic-house-jam-2026-12-26-15:00",
+   "date": "2026-12-26",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-26-18:00",
@@ -13075,28 +12675,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2026-12-26-19:50",
-   "date": "2026-12-26",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "orikaza-2026-12-27-13:00",
    "date": "2026-12-27",
    "start": "13:00",
@@ -13155,12 +12733,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2026-12-27-15:30",
@@ -13493,28 +13071,6 @@
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-12-28-19:50",
-   "date": "2026-12-28",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "jazzspot-intro-2026-12-29-18:30",
    "date": "2026-12-29",
    "start": "18:30",
@@ -13823,28 +13379,6 @@
    "src": "今日ジャズ(月曜)・セッションマップ(木曜)・公式未確認"
   },
   {
-   "id": "acoustic-house-jam-2026-12-31-19:50",
-   "date": "2026-12-31",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "j-flow-2027-01-01-18:00",
    "date": "2027-01-01",
    "start": "18:00",
@@ -13955,9 +13489,9 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2027-01-01-19:50",
+   "id": "acoustic-house-jam-2027-01-01-19:30",
    "date": "2027-01-01",
-   "start": "19:50",
+   "start": "19:30",
    "time_note": "",
    "end": "22:40",
    "venue": "ACOUSTIC HOUSE JAM",
@@ -13969,12 +13503,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "artjazz-ms-2027-01-02-x",
@@ -13997,6 +13531,28 @@
    "warn": false,
    "sample": false,
    "src": "Jazz in Japan(英語ガイド)+今日ジャズ(10/5が月曜ジャム)。公式サイトは接続エラーで未確認"
+  },
+  {
+   "id": "acoustic-house-jam-2027-01-02-15:00",
+   "date": "2027-01-02",
+   "start": "15:00",
+   "time_note": "",
+   "end": "",
+   "venue": "ACOUSTIC HOUSE JAM",
+   "pref": "埼玉",
+   "area": "大宮",
+   "genre": [
+    "jazz"
+   ],
+   "address": "埼玉県さいたま市大宮区宮町5-126",
+   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
+   "fee": "ジャムセッション1,500円",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+   "instruments": "",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2027-01-02-18:00",
@@ -14109,28 +13665,6 @@
    "src": ""
   },
   {
-   "id": "acoustic-house-jam-2027-01-02-19:50",
-   "date": "2027-01-02",
-   "start": "19:50",
-   "time_note": "",
-   "end": "22:40",
-   "venue": "ACOUSTIC HOUSE JAM",
-   "pref": "埼玉",
-   "area": "大宮",
-   "genre": [
-    "jazz"
-   ],
-   "address": "埼玉県さいたま市大宮区宮町5-126",
-   "url": "http://www2s.biglobe.ne.jp/~acoustic/",
-   "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-   "instruments": "",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
-  },
-  {
    "id": "mandara-2027-01-02-20:30",
    "date": "2027-01-02",
    "start": "20:30",
@@ -14211,12 +13745,12 @@
    "address": "埼玉県さいたま市大宮区宮町5-126",
    "url": "http://www2s.biglobe.ne.jp/~acoustic/",
    "fee": "ジャムセッション1,500円",
-   "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
+   "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
    "instruments": "",
    "note": "",
    "warn": false,
    "sample": false,
-   "src": "アットジャズ(公式未確認)・公式で日程は確認できず"
+   "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず"
   },
   {
    "id": "j-flow-2027-01-03-15:30",

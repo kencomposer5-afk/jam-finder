@@ -568,32 +568,19 @@
       "address": "埼玉県さいたま市大宮区宮町5-126",
       "url": "http://www2s.biglobe.ne.jp/~acoustic/",
       "fee": "ジャムセッション1,500円",
-      "level": "初心者〜ベテラン歓迎。リーダーとマスターが司会進行(火・水定休)",
-      "src": "アットジャズ(公式未確認)・公式で日程は確認できず",
+      "level": "フライデー(夜)・サタデー/サンデー/祝日のアフタヌーンジャム。初心者〜ベテラン歓迎(火・水定休)",
+      "src": "アットジャズ+セッションマップ(直近2週間の掲載分・公式未確認)。公式で日程は確認できず",
       "rules": [
-        {
-          "weekday": 0,
-          "weeks": "every",
-          "start": "19:50",
-          "end": "22:40"
-        },
-        {
-          "weekday": 3,
-          "weeks": "every",
-          "start": "19:50",
-          "end": "22:40"
-        },
         {
           "weekday": 4,
           "weeks": "every",
-          "start": "19:50",
+          "start": "19:30",
           "end": "22:40"
         },
         {
           "weekday": 5,
           "weeks": "every",
-          "start": "19:50",
-          "end": "22:40"
+          "start": "15:00"
         },
         {
           "weekday": 6,
@@ -967,6 +954,57 @@
           "start": "19:00"
         }
       ]
+    },
+    {
+      "id": "sunnyside-takesato",
+      "name": "Jazz Bar 武里SUNNY SIDE",
+      "pref": "埼玉",
+      "area": "春日部(武里)",
+      "genre": [
+        "jazz"
+      ],
+      "address": "埼玉県春日部市大場1108 上原Kビル1F",
+      "url": "http://sunnyside-jazzclub.com/",
+      "level": "見学も可。ジャムの日は公式の予定で確認",
+      "src": "セッションマップ(直近2週間の掲載分・公式未確認)(日付のみ)",
+      "rules": [],
+      "fee": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "city-lights-omiya",
+      "name": "MUSIC & LIVE BAR CITY LIGHTS",
+      "pref": "埼玉",
+      "area": "大宮",
+      "genre": [
+        "jazz"
+      ],
+      "level": "ジャムセッションの日あり(日付のみ登録)",
+      "src": "セッションマップ(直近2週間の掲載分・公式未確認)(日付のみ)",
+      "rules": [],
+      "address": "",
+      "url": "",
+      "fee": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "ebisu-cafe-hanno",
+      "name": "ヱビス・カフェ",
+      "pref": "埼玉",
+      "area": "飯能",
+      "genre": [
+        "jazz"
+      ],
+      "level": "オープンマイクやジャズセッションの日あり(日付のみ登録)",
+      "src": "セッションマップ(直近2週間の掲載分・公式未確認)(日付のみ)",
+      "rules": [],
+      "address": "",
+      "url": "",
+      "fee": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
     }
   ],
   "overrides": [
@@ -1618,6 +1656,87 @@
       "date": "2026-11-23",
       "cancel": true,
       "note": "祝日休業"
+    },
+    {
+      "venue": "acoustic-house-jam",
+      "date": "2026-10-12",
+      "extra": {
+        "start": "15:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "埼玉県さいたま市大宮区宮町5-126",
+        "fee": "ジャムセッション1,500円",
+        "level": "",
+        "instruments": "",
+        "note": "ホリデーアフタヌーンジャム(祝日)"
+      }
+    },
+    {
+      "venue": "sunnyside-takesato",
+      "date": "2026-10-10",
+      "extra": {
+        "start": "19:30",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "参加者2,000円 / 見学1,000円 / T/C 500円+drink",
+        "level": "",
+        "instruments": "",
+        "note": ""
+      }
+    },
+    {
+      "venue": "city-lights-omiya",
+      "date": "2026-10-11",
+      "extra": {
+        "start": "18:30",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "2,000円+2オーダー",
+        "level": "",
+        "instruments": "",
+        "note": "ジャムセッション"
+      }
+    },
+    {
+      "venue": "ebisu-cafe-hanno",
+      "date": "2026-10-15",
+      "extra": {
+        "start": "19:00",
+        "end": "",
+        "genre": [
+          "jazz"
+        ],
+        "address": "",
+        "fee": "1,500円",
+        "level": "",
+        "instruments": "",
+        "note": "Jazzセッション"
+      }
+    },
+    {
+      "venue": "ebisu-cafe-hanno",
+      "date": "2026-10-10",
+      "extra": {
+        "start": "",
+        "time_note": "夜(開始時刻は公式で確認)",
+        "end": "",
+        "genre": [
+          "all"
+        ],
+        "address": "",
+        "fee": "500円",
+        "level": "",
+        "instruments": "",
+        "note": "オープンマイク"
+      }
     }
   ]
 }
