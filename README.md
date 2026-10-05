@@ -34,3 +34,16 @@
 - Instagram・X・Facebook は規約上、自動では読みません。robots.txt を守り、1秒に1リクエスト以内で取得します
 - 自動では `venues.json` を書き換えません。人が確認して反映します
 ローカル実行: `python3 scripts/watch.py`
+
+## 自動収集パイプライン(MVP)`finder/`
+地域×検索語を自動生成 → 検索/Places → 公式サイト巡回 → ルール判定(+AI判定) → SQLite → 網羅率レポート。
+```
+python3 finder/pipeline.py all            # plan → seed → search → crawl → report
+python3 finder/pipeline.py report         # finder/out/report.md と candidates.json
+```
+- **APIキーなしでも動く範囲**: 検索クエリ生成(約1,700件)、登録済み会場・`watch/seeds.txt` の公式サイト巡回、ルール判定、重複排除、信頼度、状態(NEW/更新/要確認/終了候補)、網羅率
+- **キーを環境変数に入れると有効になる範囲**(未検証・キー取得後に動作確認が必要):
+  `GOOGLE_CSE_KEY`+`GOOGLE_CSE_CX`(ウェブ検索・無料枠は1日100件)/ `GOOGLE_PLACES_KEY`(店一覧・Place ID)/ `ANTHROPIC_API_KEY`(AI判定)
+- SNSは読まず、検索で見つかった場合もURLを控えるだけ。robots.txt順守・1秒間隔・取得件数上限つき
+- 地域は `finder/regions.json` を編集して追加(網羅率はこのリストに対する割合)
+- 出力はあくまで**候補**。`data/venues.json` への反映は人が確認してから行う

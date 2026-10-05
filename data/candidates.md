@@ -62,3 +62,7 @@
 ## セッションマップ 埼玉の掲載会場(ユーザー提供)から
 - 反映: ACOUSTIC HOUSE JAM(金19:30/土・日・祝15:00に修正)/武里SUNNY SIDE・CITY LIGHTS・ヱビス・カフェは直近の日付のみ登録
 - 未登録(公式/日程の確認待ち): ライブカフェ宮内家(さいたま市南区)/プラス・イレヴン(上尾)/LIVE CAFE Jammin'(川越)/SPACE1497(熊谷)
+
+## 一覧表(ユーザー提供・出典/日程なし。◎などの初心者評価は根拠不明のため参考)
+- 登録済み: Jazzmal以外の多くは登録/検討済み。未登録で手がかりに: Heaven's Bar(東大宮)/Absolute Blue(池袋)/Jazz Bar SOULTRANE・SHIZUKA・JAZOO(浅草)/東京倶楽部(水道橋)/Café Cotton Club(高田馬場)/新宿ピットイン(初参加OKの回)/cooljojo(本八幡)/ジャズのお店コルコバード(松戸・昼セッション)
+- 訂正: JazzSpot Intro は金曜がバータイム(セッションは別会場)→金曜を除外済み
