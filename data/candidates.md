@@ -31,3 +31,7 @@
 ## 今日ジャズ 10/5 掲載分から(1日分のため曜日を決められないもの)
 目白 MARK VI(JAM SESSION Vol.116)/新所沢 Studio Nave(TeaTimeJamSession)/松戸 CORCOVADO(昼・夜)/成田 Cloud9(そらとぶセッション)/経堂 Crazy Love/国分寺 M's/入谷 FOUR & MORE/赤坂 KEI/阿佐ヶ谷 天/渋谷 琥珀/代官山 LEZARD/新宿 GOLDEN EGG(2種類のセッション)/藤沢 soundmarket
 → 今日ジャズ運営者へ許可を得られれば、会場リストとして参照したい。運営者は継続のための支援を呼びかけている(https://kyoujazz.com/support)。
+
+## 千葉の一覧(ユーザー提供)の整理
+- 登録: 柏Nardis / HOT HOUSE(市川) / Jazz & Bar clipper(千葉みなと) / JAM(邪夢・千葉市) / Studio WUU(柏) / Birdland(北千住)
+- 見送り: BLUE TRAIN(松戸) — 2025年9月末に閉店(松戸つうしん)/ NIGHT & DAY(松戸) — 完全予約制で日程は電話確認

@@ -394,12 +394,12 @@
       "genre": [
         "jazz"
       ],
-      "address": "",
-      "url": "",
+      "address": "東京都墨田区亀沢3-13-6 岩崎ビル2F",
+      "url": "https://j-flow.net/",
       "fee": "2,800〜3,200円+オーダー(日により変動)",
-      "level": "毎日ホストが替わる",
+      "level": "ほぼ毎日(毎週火曜休み)。ホストが日替わり。リスナーも歓迎",
       "instruments": "ホスト+リズムセクション",
-      "src": "アットジャズ(10月分の表・公式未確認)",
+      "src": "アットジャズ(10月の表と店舗情報が一致・公式未確認)",
       "verified": "2026-10-05(ユーザー提供の表)",
       "rules": [
         {
@@ -701,6 +701,165 @@
       ],
       "address": "",
       "url": "",
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "nardis-kashiwa",
+      "name": "柏 Nardis",
+      "pref": "千葉",
+      "area": "柏",
+      "genre": [
+        "jazz"
+      ],
+      "address": "千葉県柏市柏3-2-6 KSビル1F",
+      "url": "https://knardis.com",
+      "fee": "1,500〜3,000円",
+      "level": "第2日曜はスタンダード中心。第3木曜は1人ずつ2曲(譜面持参)のライブ形式(日曜以外も営業。定休は日曜)",
+      "src": "アットジャズ(公式サイトの稼働は確認・日程の記載は確認できず)",
+      "rules": [
+        {
+          "weekday": 6,
+          "weeks": [
+            2
+          ],
+          "start": "",
+          "time_note": "夜(演奏は20:30〜・22:00〜の2ステージ)"
+        },
+        {
+          "weekday": 3,
+          "weeks": [
+            3
+          ],
+          "start": "",
+          "time_note": "夜(演奏は20:30〜・22:00〜の2ステージ)"
+        }
+      ],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "hot-house",
+      "name": "HOT HOUSE",
+      "pref": "千葉",
+      "area": "市川(行徳)",
+      "genre": [
+        "jazz"
+      ],
+      "address": "千葉県市川市福栄1-3-21",
+      "url": "https://www.jbs-co.com/hothouse/",
+      "fee": "ミュージックチャージ1,000円",
+      "level": "毎週木曜19:00〜。ホストはピアノ・ベース(日・月・祝は定休)",
+      "src": "アットジャズ(公式サイトの稼働は確認・日程の記載は確認できず)",
+      "rules": [
+        {
+          "weekday": 3,
+          "weeks": "every",
+          "start": "19:00"
+        }
+      ],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "clipper",
+      "name": "Jazz & Bar clipper",
+      "pref": "千葉",
+      "area": "千葉みなと",
+      "genre": [
+        "jazz"
+      ],
+      "address": "千葉県千葉市中央区中央港1-24-14 シースケープ千葉みなと1F",
+      "url": "https://clipper.live",
+      "fee": "参加費1,200円",
+      "level": "加藤晃司セッション(基本毎月第3日曜・変更あり)。ほかにヴォーカルセッションが不定期",
+      "src": "アットジャズ(公式サイトの稼働は確認・日程の記載は確認できず)",
+      "rules": [
+        {
+          "weekday": 6,
+          "weeks": [
+            3
+          ],
+          "start": "",
+          "time_note": "時間は公式で確認"
+        }
+      ],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "jam-chiba",
+      "name": "JAM(邪夢)",
+      "pref": "千葉",
+      "area": "本千葉",
+      "genre": [
+        "blues"
+      ],
+      "address": "千葉県千葉市中央区市場町9-19 一色ビル1F",
+      "url": "https://musicians-paradise-jam.com/",
+      "fee": "参加費1,000円(入場無料)",
+      "level": "開店以来25年続くブルースジャム。楽器持参でどなたでも(基本的に毎週土曜・日曜祝日は定休)",
+      "src": "アットジャズ(公式サイトの稼働は確認・日程の記載は確認できず)",
+      "rules": [
+        {
+          "weekday": 5,
+          "weeks": "every",
+          "start": "18:00",
+          "end": "22:00"
+        }
+      ],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "studio-wuu",
+      "name": "Studio WUU",
+      "pref": "千葉",
+      "area": "柏",
+      "genre": [
+        "jazz"
+      ],
+      "address": "千葉県柏市柏1-5-20 プールドゥビル5F",
+      "url": "https://www.wuu.co.jp/",
+      "fee": "ジャムセッション1,000円",
+      "level": "スタインウェイのグランドピアノ。初心者〜ベテランOK。不定休",
+      "src": "アットジャズ(公式サイトの稼働は確認・日程の記載は確認できず)",
+      "rules": [
+        {
+          "weekday": 3,
+          "weeks": [
+            2
+          ],
+          "start": "20:00",
+          "end": "23:30"
+        }
+      ],
+      "instruments": "",
+      "verified": "2026-10-05(ユーザー提供の情報)"
+    },
+    {
+      "id": "birdland-kitasenju",
+      "name": "Birdland",
+      "pref": "東京",
+      "area": "北千住",
+      "genre": [
+        "jazz"
+      ],
+      "address": "東京都足立区千住1-31-8",
+      "url": "https://linktr.ee/jazz_spot_birdland",
+      "fee": "参加2,000円 / 見学1,000円(別途飲食代)",
+      "level": "要電話予約(前日23:30まで・03-3888-1130)。ホストはピアノ・ベース・ドラム",
+      "src": "アットジャズ(2回分の情報が一致・公式で日程は確認できず)",
+      "rules": [
+        {
+          "weekday": 6,
+          "weeks": [
+            1
+          ],
+          "start": "13:00",
+          "end": "16:00"
+        }
+      ],
       "instruments": "",
       "verified": "2026-10-05(ユーザー提供の情報)"
     }
