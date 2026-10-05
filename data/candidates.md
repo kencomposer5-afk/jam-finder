@@ -49,3 +49,7 @@
 - 登録: KEI(赤坂・公式予定表で確認)/Art x Jazz M's(国分寺)
 - Ami's Bar(東大泉): 公式(amisbar.wordpress.com)の営業案内にジャム/セッションの記載なし(月・火休み)→ライブ中心とみて見送り
 - 公式HPが検索で見つからなかった: bar klavier(阿佐谷・ライブ中心)/ROCINANTE/バックビート/大久保ホットショット/西荻ヘブンズドア/Cafe Dolce Vita/Jaka'z
+
+## Googleマップ「ブルース」検索の追加分(ユーザー提供・日程なし)。口コミにセッション記述あり
+- 墨田区江東橋 パピーズ(「毎週水曜日のブルースセッション」の口コミ)/町田 Blues&Jazz BAR Butcher / 町田 MUSIC GARAGE Sheik / 栄町 music lounge BAHAMA(ブルースセッション)/狛江 add9th(ジャズ・ブルースセッションバー)/水道橋 東京倶楽部(ジャムセッション向け)/白楽 BLUES ETTE(日曜のセッション)/ふじみ野 Music Cafe EBONY/阿佐谷 ブルースハウスシカゴ/大倉山 Muddy's/戸塚 Totsuka Bay Blues
+- 点検プログラム(scripts/watch.py)の seeds に公式URLを書くと、毎週ジャム/セッションの記載を自動で解析する

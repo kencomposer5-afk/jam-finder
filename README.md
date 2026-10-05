@@ -26,3 +26,11 @@
 登録済みの会場(Bright Brown / Catfish / JazzSpot Intro)は 2026-10-05 時点の公式サイト記載に基づきます。
 開催日は変わることがあるため、`venues.json` の `verified` を目安に定期的に公式を確認してください。
 会場を足すときは、公式サイトで曜日・時間・参加条件を確認してから `rules` を書きます。
+
+## 自動点検(毎週)
+`.github/workflows/watch.yml` が毎週月曜 06:00(JST)に `scripts/watch.py` を実行し、結果を GitHub の Issue「週次チェック: 要確認の会場」にまとめます。
+- 登録済みの会場の**公式サイト**を確認(閉店・移転・休業の記載、ジャム/セッションの記載の変化、アクセス不能が続く場合)
+- `watch/seeds.txt` に気になる店の公式URLを書くと、開催ルールの下書きを出力
+- Instagram・X・Facebook は規約上、自動では読みません。robots.txt を守り、1秒に1リクエスト以内で取得します
+- 自動では `venues.json` を書き換えません。人が確認して反映します
+ローカル実行: `python3 scripts/watch.py`

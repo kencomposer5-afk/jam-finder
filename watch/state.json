@@ -1,0 +1,78 @@
+{
+ "bright-brown": {
+  "fail": 0,
+  "hash": "4de9e8a2e6ba"
+ },
+ "catfish": {
+  "fail": 0,
+  "hash": "4ac377b9cefd"
+ },
+ "jazzspot-intro": {
+  "fail": 0,
+  "hash": "8d7e196430a1"
+ },
+ "kikuna-jam": {
+  "fail": 0,
+  "hash": "78505de7aad9"
+ },
+ "yoyogi-naru": {
+  "fail": 0,
+  "hash": "6792ecafa98d"
+ },
+ "dolphy": {
+  "fail": 0,
+  "hash": "250d05e77c43"
+ },
+ "jazz-swan": {
+  "fail": 0,
+  "hash": "4b7c35556e86"
+ },
+ "rpm-shimokita": {
+  "fail": 0,
+  "hash": "30c75a2fe062"
+ },
+ "j-flow": {
+  "fail": 0,
+  "hash": "162ec0cdecde"
+ },
+ "sugar-hill": {
+  "fail": 0,
+  "hash": "91136059eb12"
+ },
+ "mandara": {
+  "fail": 0,
+  "hash": "da39a3ee5e6b"
+ },
+ "acoustic-house-jam": {
+  "fail": 0,
+  "hash": "47072ec1cf36"
+ },
+ "nardis-kashiwa": {
+  "fail": 2,
+  "hash": ""
+ },
+ "hot-house": {
+  "fail": 0,
+  "hash": "de7e4ba8409c"
+ },
+ "clipper": {
+  "fail": 0,
+  "hash": "da39a3ee5e6b"
+ },
+ "jam-chiba": {
+  "fail": 0,
+  "hash": "0b6b26c14480"
+ },
+ "studio-wuu": {
+  "fail": 0,
+  "hash": "da39a3ee5e6b"
+ },
+ "akasaka-kei": {
+  "fail": 0,
+  "hash": "c4f4f48cf35f"
+ },
+ "artjazz-ms": {
+  "fail": 0,
+  "hash": "7f1bec380b5e"
+ }
+}

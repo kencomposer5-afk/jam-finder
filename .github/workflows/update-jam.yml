@@ -4,7 +4,7 @@ on:
     - cron: "0 20 * * *"   # 毎日 05:00 JST
   workflow_dispatch:
   push:
-    paths-ignore: ["README.md", "docs/**"]
+    paths-ignore: ["README.md", "docs/**", "watch/**"]
 permissions:
   contents: write
   pages: write
