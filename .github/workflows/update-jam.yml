@@ -23,7 +23,7 @@ jobs:
           git config user.name "jam-bot"
           git config user.email "jam-bot@users.noreply.github.com"
           git add data/sessions.json
-          git diff --cached --quiet || (git commit -m "chore: update jam sessions" && git push)
+          git diff --cached --quiet || (git commit -m "chore: update jam sessions" && git pull --rebase origin main && git push)
       - name: Collect site files
         run: |
           mkdir _site
