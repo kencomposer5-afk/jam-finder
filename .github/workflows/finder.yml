@@ -1,0 +1,35 @@
+name: Weekly finder
+on:
+  schedule:
+    - cron: "0 22 * * 1"   # 毎週火曜 07:00 JST
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  finder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore previous results (for NEW / 更新 detection)
+        uses: actions/cache@v4
+        with:
+          path: finder/finder.db
+          key: finder-db-${{ github.run_id }}
+          restore-keys: finder-db-
+      - name: Run finder
+        env:
+          # 登録されていなければ空文字になり、その工程は自動でスキップされます
+          GOOGLE_CSE_KEY: ${{ secrets.GOOGLE_CSE_KEY }}
+          GOOGLE_CSE_CX: ${{ secrets.GOOGLE_CSE_CX }}
+          GOOGLE_PLACES_KEY: ${{ secrets.GOOGLE_PLACES_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python finder/pipeline.py all --max-pages 80
+      - name: Post report as an issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="収集レポート(自動)"
+          n=$(gh issue list --state open --search "in:title $title" --json number --jq '.[0].number')
+          if [ -n "$n" ]; then gh issue edit "$n" --body-file finder/out/report.md
+          else gh issue create --title "$title" --body-file finder/out/report.md; fi

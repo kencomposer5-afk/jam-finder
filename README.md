@@ -47,3 +47,8 @@ python3 finder/pipeline.py report         # finder/out/report.md と candidates.
 - SNSは読まず、検索で見つかった場合もURLを控えるだけ。robots.txt順守・1秒間隔・取得件数上限つき
 - 地域は `finder/regions.json` を編集して追加(網羅率はこのリストに対する割合)
 - 出力はあくまで**候補**。`data/venues.json` への反映は人が確認してから行う
+
+### 週次の自動実行と、APIキーの登録
+`.github/workflows/finder.yml` が毎週火曜 07:00(JST)に `finder/pipeline.py all` を実行し、結果を Issue「収集レポート(自動)」に出します。
+キーを使うときは、GitHub のリポジトリで **Settings → Secrets and variables → Actions → New repository secret** から、次の名前で登録します(登録した分だけ有効になります)。
+`GOOGLE_CSE_KEY` / `GOOGLE_CSE_CX` / `GOOGLE_PLACES_KEY` / `ANTHROPIC_API_KEY`
