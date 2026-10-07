@@ -1,157 +1,6 @@
 {
- "updated": "2026-10-07T13:28+09:00",
+ "updated": "2026-10-08T05:04+09:00",
  "sessions": [
-  {
-   "start": "14:00",
-   "end": "17:00",
-   "genre": [
-    "jazz"
-   ],
-   "address": "",
-   "fee": "2,000円+2オーダー",
-   "level": "",
-   "instruments": "",
-   "note": "初心者歓迎の超ゆるジャズセッション",
-   "id": "coco-palm-2026-10-07-x",
-   "date": "2026-10-07",
-   "venue": "COCO PALM",
-   "pref": "東京",
-   "area": "西荻窪",
-   "url": "https://www.shimamura.co.jp/happyjam/?p=4133",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(10月分の表・公式未確認)"
-  },
-  {
-   "id": "j-flow-2026-10-07-18:00",
-   "date": "2026-10-07",
-   "start": "18:00",
-   "time_note": "",
-   "end": "22:00",
-   "venue": "JazzセッションCafe J-flow",
-   "pref": "東京",
-   "area": "錦糸町・墨田区",
-   "genre": [
-    "jazz"
-   ],
-   "address": "東京都墨田区亀沢3-13-6 岩崎ビル2F",
-   "url": "https://j-flow.net/",
-   "fee": "2,800〜3,200円+オーダー(日により変動)",
-   "level": "ほぼ毎日(毎週火曜休み)。ホストが日替わり。リスナーも歓迎",
-   "instruments": "ホスト+リズムセクション",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(10月の表と店舗情報が一致・公式未確認)"
-  },
-  {
-   "id": "jazzspot-intro-2026-10-07-18:30",
-   "date": "2026-10-07",
-   "start": "18:30",
-   "time_note": "",
-   "end": "24:00",
-   "venue": "JazzSpot Intro",
-   "pref": "東京",
-   "area": "高田馬場",
-   "genre": [
-    "jazz"
-   ],
-   "address": "東京都新宿区(高田馬場駅 徒歩5分)",
-   "url": "https://jazzspot.intro.co.jp/",
-   "fee": "入場料2,000円(1ドリンク付)",
-   "level": "練習ジャム(火〜日)。金曜はバータイムでセッションは別会場。土曜は10時間のオールナイト",
-   "instruments": "ジャムセッション(土曜はオールナイト)",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": ""
-  },
-  {
-   "id": "kikuna-jam-2026-10-07-19:00",
-   "date": "2026-10-07",
-   "start": "19:00",
-   "time_note": "",
-   "end": "23:00",
-   "venue": "Kikuna Jam",
-   "pref": "神奈川",
-   "area": "横浜・菊名",
-   "genre": [
-    "jazz"
-   ],
-   "address": "横浜市港北区菊名7-5-10 菊名アメニティ1F",
-   "url": "https://kikunalivejam.wixsite.com/kikunalivejam",
-   "fee": "1,200円(1ドリンク付)",
-   "level": "セッション専門。毎日ホストメンバーが在籍",
-   "instruments": "曜日によりホストの楽器が異なる(詳細は公式)",
-   "note": "",
-   "warn": true,
-   "sample": false,
-   "src": ""
-  },
-  {
-   "id": "rpm-shimokita-2026-10-07-19:00",
-   "date": "2026-10-07",
-   "start": "19:00",
-   "time_note": "",
-   "end": "22:30",
-   "venue": "Music Bar RPM",
-   "pref": "東京",
-   "area": "下北沢",
-   "genre": [
-    "all"
-   ],
-   "address": "東京都世田谷区北沢2-7-5 下北沢プラッツB1",
-   "url": "http://www.rpmshimokita.com/",
-   "fee": "演奏者3,500円 / 聴くだけ4,000円(どちらも2ドリンク込・現金のみ)",
-   "level": "毎日ホストが替わるセッションバー(ジャンル問わず)",
-   "instruments": "ホストは日替わり(公式スケジュール参照)。日によりライブのみ・長時間の日あり。席の予約は不可",
-   "note": "",
-   "warn": false,
-   "sample": false,
-   "src": ""
-  },
-  {
-   "start": "19:00",
-   "end": "",
-   "genre": [
-    "jazz"
-   ],
-   "address": "",
-   "fee": "2,000円",
-   "level": "",
-   "instruments": "",
-   "note": "",
-   "id": "jazoo-2026-10-07-x",
-   "date": "2026-10-07",
-   "venue": "JAZOO",
-   "pref": "東京",
-   "area": "浅草",
-   "url": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(10月分の表・公式未確認)"
-  },
-  {
-   "start": "19:30",
-   "end": "22:30",
-   "genre": [
-    "jazz"
-   ],
-   "address": "",
-   "fee": "1,500円",
-   "level": "要2オーダー",
-   "instruments": "",
-   "note": "",
-   "id": "bar-alive-2026-10-07-x",
-   "date": "2026-10-07",
-   "venue": "Bar aLive",
-   "pref": "東京",
-   "area": "新宿・歌舞伎町",
-   "url": "",
-   "warn": false,
-   "sample": false,
-   "src": "アットジャズ(10月分の表・公式未確認)"
-  },
   {
    "id": "j-flow-2026-10-08-18:00",
    "date": "2026-10-08",
@@ -13493,6 +13342,94 @@
   {
    "id": "rpm-shimokita-2027-01-05-19:00",
    "date": "2027-01-05",
+   "start": "19:00",
+   "time_note": "",
+   "end": "22:30",
+   "venue": "Music Bar RPM",
+   "pref": "東京",
+   "area": "下北沢",
+   "genre": [
+    "all"
+   ],
+   "address": "東京都世田谷区北沢2-7-5 下北沢プラッツB1",
+   "url": "http://www.rpmshimokita.com/",
+   "fee": "演奏者3,500円 / 聴くだけ4,000円(どちらも2ドリンク込・現金のみ)",
+   "level": "毎日ホストが替わるセッションバー(ジャンル問わず)",
+   "instruments": "ホストは日替わり(公式スケジュール参照)。日によりライブのみ・長時間の日あり。席の予約は不可",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": ""
+  },
+  {
+   "id": "j-flow-2027-01-06-18:00",
+   "date": "2027-01-06",
+   "start": "18:00",
+   "time_note": "",
+   "end": "22:00",
+   "venue": "JazzセッションCafe J-flow",
+   "pref": "東京",
+   "area": "錦糸町・墨田区",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都墨田区亀沢3-13-6 岩崎ビル2F",
+   "url": "https://j-flow.net/",
+   "fee": "2,800〜3,200円+オーダー(日により変動)",
+   "level": "ほぼ毎日(毎週火曜休み)。ホストが日替わり。リスナーも歓迎",
+   "instruments": "ホスト+リズムセクション",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": "アットジャズ(10月の表と店舗情報が一致・公式未確認)"
+  },
+  {
+   "id": "jazzspot-intro-2027-01-06-18:30",
+   "date": "2027-01-06",
+   "start": "18:30",
+   "time_note": "",
+   "end": "24:00",
+   "venue": "JazzSpot Intro",
+   "pref": "東京",
+   "area": "高田馬場",
+   "genre": [
+    "jazz"
+   ],
+   "address": "東京都新宿区(高田馬場駅 徒歩5分)",
+   "url": "https://jazzspot.intro.co.jp/",
+   "fee": "入場料2,000円(1ドリンク付)",
+   "level": "練習ジャム(火〜日)。金曜はバータイムでセッションは別会場。土曜は10時間のオールナイト",
+   "instruments": "ジャムセッション(土曜はオールナイト)",
+   "note": "",
+   "warn": false,
+   "sample": false,
+   "src": ""
+  },
+  {
+   "id": "kikuna-jam-2027-01-06-19:00",
+   "date": "2027-01-06",
+   "start": "19:00",
+   "time_note": "",
+   "end": "23:00",
+   "venue": "Kikuna Jam",
+   "pref": "神奈川",
+   "area": "横浜・菊名",
+   "genre": [
+    "jazz"
+   ],
+   "address": "横浜市港北区菊名7-5-10 菊名アメニティ1F",
+   "url": "https://kikunalivejam.wixsite.com/kikunalivejam",
+   "fee": "1,200円(1ドリンク付)",
+   "level": "セッション専門。毎日ホストメンバーが在籍",
+   "instruments": "曜日によりホストの楽器が異なる(詳細は公式)",
+   "note": "",
+   "warn": true,
+   "sample": false,
+   "src": ""
+  },
+  {
+   "id": "rpm-shimokita-2027-01-06-19:00",
+   "date": "2027-01-06",
    "start": "19:00",
    "time_note": "",
    "end": "22:30",
