@@ -5,10 +5,10 @@
  },
  "catfish": {
   "fail": 0,
-  "hash": "6994fc4eceb1"
+  "hash": "e9cecf1487b8"
  },
  "jazzspot-intro": {
-  "fail": 1,
+  "fail": 0,
   "hash": "8d7e196430a1"
  },
  "kikuna-jam": {
@@ -16,24 +16,24 @@
   "hash": "78505de7aad9"
  },
  "yoyogi-naru": {
-  "fail": 1,
-  "hash": "6792ecafa98d"
+  "fail": 0,
+  "hash": "02b67784122d"
  },
  "dolphy": {
   "fail": 0,
   "hash": "250d05e77c43"
  },
  "jazz-swan": {
-  "fail": 2,
+  "fail": 3,
   "hash": "4b7c35556e86"
  },
  "rpm-shimokita": {
   "fail": 0,
-  "hash": "5d3eae234e58"
+  "hash": "3ce2731ef753"
  },
  "j-flow": {
-  "fail": 1,
-  "hash": "162ec0cdecde"
+  "fail": 0,
+  "hash": "14943b57d2a2"
  },
  "sugar-hill": {
   "fail": 0,
@@ -48,7 +48,7 @@
   "hash": "47072ec1cf36"
  },
  "nardis-kashiwa": {
-  "fail": 4,
+  "fail": 5,
   "hash": ""
  },
  "hot-house": {
@@ -61,7 +61,7 @@
  },
  "jam-chiba": {
   "fail": 0,
-  "hash": "68a25261743e"
+  "hash": "f1a8e8eaeedb"
  },
  "studio-wuu": {
   "fail": 0,
@@ -73,10 +73,10 @@
  },
  "artjazz-ms": {
   "fail": 0,
-  "hash": "ac71d7fcabb3"
+  "hash": "65a2dded495a"
  },
  "sunnyside-takesato": {
-  "fail": 0,
+  "fail": 1,
   "hash": "9c842ed555f7"
  }
 }
