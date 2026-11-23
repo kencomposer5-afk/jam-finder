@@ -1,4 +1,4 @@
-# 週次チェック(2026-11-16 09:47 JST)
+# 週次チェック(2026-11-23 10:25 JST)
 
 - 点検した会場: 18件 / 読めなかった: 2件 / 公式URLなし・SNSのため対象外: 15件
 - 自動では何も書き換えていません。内容を確認して `data/venues.json` に反映してください。
@@ -12,13 +12,9 @@ https://www.catfishtokyo.com/
 https://jazzspot.intro.co.jp/
 - ページ上に未登録の開催パターン(推測): 毎週金曜
 
-### 代々木NARU
-http://www.yoyogi-naru.com/
-- ジャム/セッションに関する記載が前回から変わっています(日程・料金の変更かも)
-
 ### Jazz & Coffee Swan
 http://swan.o.oo7.jp/
-- 公式サイトを読めません(robots.txt で取得不可) — 7回連続。**閉店・移転の可能性**があるので確認を
+- 公式サイトを読めません(robots.txt で取得不可) — 8回連続。**閉店・移転の可能性**があるので確認を
 
 ### Music Bar RPM
 http://www.rpmshimokita.com/
@@ -28,20 +24,13 @@ http://www.rpmshimokita.com/
 https://j-flow.net/
 - ジャム/セッションに関する記載が前回から変わっています(日程・料金の変更かも)
 
-### jazz&drinks Sugar Hill
-https://www.sugarhill.jp/schedule/
-- ジャム/セッションに関する記載が前回から変わっています(日程・料金の変更かも)
-
 ### 柏 Nardis
 https://knardis.com
-- 公式サイトを読めません(<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f) — 9回連続。**閉店・移転の可能性**があるので確認を
+- 公式サイトを読めません(<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f) — 10回連続。**閉店・移転の可能性**があるので確認を
 
 ### JAM(邪夢)
 https://musicians-paradise-jam.com/
 - 「閉店」の記載: 2026年1月末の閉店発表後、
-
-### Art x Jazz M's
-http://artjazz-ms.com/
 - ジャム/セッションに関する記載が前回から変わっています(日程・料金の変更かも)
 
 ### Jazz Bar 武里SUNNY SIDE
